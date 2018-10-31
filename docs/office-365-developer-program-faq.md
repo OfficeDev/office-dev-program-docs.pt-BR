@@ -2,14 +2,15 @@
 title: Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365
 description: Perguntas frequentes sobre o Programa de Desenvolvedores do Office 365.
 ms.date: 04/16/2018
-ms.openlocfilehash: 53e0f076aeb5d9a08ed1801d71b5dcd656c6fe14
-ms.sourcegitcommit: b7da765007f295d17f23b7d4a638af760ecd3b96
+ms.openlocfilehash: 7d02bed6ba67c2a0eac0db6674848d9e6f39630b
+ms.sourcegitcommit: 3651125e6eebc1d630436a260051eca929f3306b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25670369"
+ms.lasthandoff: 10/27/2018
+ms.locfileid: "25829249"
 ---
 # <a name="office-365-developer-program-faq"></a>Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365
+
 
 Veja a seguir as perguntas frequentes sobre o Programa de Desenvolvedores do Office 365.
 
@@ -65,7 +66,7 @@ Sua assinatura é válida por um ano. Você pode encontrar a data de vencimento,
 
 ### <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>Quando minha assinatura estiver prestes a expirar, posso estendê-la?
 
-Neste momento, não é possível estender assinaturas existentes. No entanto, você pode estender sua assinatura comprando uma opção de especial US$99.00/ ano. Quando a assinatura estiver prestes a expirar, você receberá um lembrete sobre como renová-la, com instruções sobre como estender sua assinatura.
+Neste momento, não é possível estender assinaturas existentes. No entanto, você pode estender sua assinatura comprando uma opção de especial US$99.00 anuais por usuário. Quando a assinatura estiver prestes a expirar, você receberá um lembrete sobre como renová-la, com instruções sobre como estender sua assinatura.
 
 <a name="account-types"> </a>
 
