@@ -3,12 +3,12 @@ title: Usar sua assinatura de desenvolvedor para criar soluções do Office 365
 description: Use sua assinatura de desenvolvedor para criar soluções do Office 365.
 ms.date: 03/20/2018
 localization_priority: Priority
-ms.openlocfilehash: a42c5cb7c3ba6645e46c36fb22abd5da073fc06c
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: 375514e1bc42742810c4d8a56a59fe24140abb27
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015118"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31041995"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>Usar sua assinatura de desenvolvedor para criar soluções do Office 365
 
@@ -20,23 +20,23 @@ O Microsoft Teams é um espaço de trabalho baseado em bate-papo no Office 365, 
 
 Veja aqui como instalar e fazer codificação com o Microsoft Teams:
 
-1. [Prepare sua assinatura de desenvolvedor do Office 365](https://docs.microsoft.com/pt-BR/microsoftteams/platform/get-started/get-started-tenant).
-2. Defina seu ambiente de desenvolvimento. Este processo vai variar dependendo do tipo de aplicativo ou serviço que você está criando. Para obter informações detalhadas, consulte um dos seguintes itens:
+1. [Prepare sua assinatura de desenvolvedor do Office 365](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-tenant).
+2. Defina seu ambiente de desenvolvimento. Este processo vai variar dependendo do tipo de aplicativo ou serviço que você está criando. Para obter detalhes, consulte Reference Architecture 2: Scaled Consolidated Edge (DNS Load Balanced).
 
-  - [Introdução à plataforma do Microsoft Teams com Node.js](https://docs.microsoft.com/pt-BR/microsoftteams/platform/get-started/get-started-nodejs)
-  - [Introdução à plataforma do Microsoft Teams com C#/.NET](https://docs.microsoft.com/pt-BR/microsoftteams/platform/get-started/get-started-dotnet)
+  - [Introdução à plataforma do Microsoft Teams com Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
+  - Introdução à plataforma do Microsoft Teams com C#/.NEThttps://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
-Você pode usar o Microsoft Graph para interagir com os dados de milhões de usuários na nuvem da Microsoft. Use o Microsoft Graph para criar aplicativos para organizações e consumidores que se conectam a uma ampla variedade de recursos, relações e inteligência, tudo por um único ponto de extremidade: https://graph.microsoft.com.
+Você pode usar o Microsoft Graph para interagir com os dados de milhões de usuários na nuvem da Microsoft. Use o Microsoft Graph para criar aplicativos para organizações e consumidores que se conectam a uma ampla variedade de recursos, relações e inteligência, tudo por um único ponto de extremidade: `https://graph.microsoft.com`.
 
-Para configurar e a codificar com o Microsoft Graph, confira [Introdução à criação de aplicativos do Microsoft Graph](https://developer.microsoft.com/pt-BR/graph/docs/concepts/get-started) ou o [Início Rápido](https://developer.microsoft.com/pt-BR/graph/quick-start) do Microsoft Graph.
+Para configurar e a codificar com o Microsoft Graph, confira [Introdução à criação de aplicativos do Microsoft Graph](https://developer.microsoft.com/pt-BR/graph/get-started) ou o [Início Rápido](https://developer.microsoft.com/pt-BR/graph/quick-start) do Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Suplementos do Office
 
 Você pode usar a plataforma de suplementos do Office para criar soluções que estendem os aplicativos do Office e interagem com conteúdo nos documentos do Office. Com os suplementos do Office, você pode usar tecnologias web conhecidas, como HTML, CSS e JavaScript, para estender e interagir com o Word, Excel, PowerPoint, OneNote, Project e Outlook. Sua solução pode ser executada no Office através de várias plataformas, incluindo Office para Windows, Office Online, Office para Mac e Office para iPad.
 
-Para configurar seu ambiente de desenvolvimento e criar seu primeiro suplemento, confira [Inícios rápidos de suplementos do Office](https://docs.microsoft.com/pt-BR/office/dev/add-ins/).
+Para configurar seu ambiente de desenvolvimento e criar seu primeiro suplemento, confira [Inícios rápidos de suplementos do Office](https://docs.microsoft.com/office/dev/add-ins/).
 
 ## <a name="sharepoint-framework"></a>Estrutura do SharePoint
 
@@ -44,22 +44,23 @@ A Estrutura do SharePoint (SPFx) é um modelo de Web Part e página que dá supo
 
 Para configurar e começar a codificação com o SharePoint Framework:
 
-- [Configurar sua assinatura de desenvolvedor do Office 365](https://docs.microsoft.com/pt-BR/sharepoint/dev/spfx/set-up-your-developer-tenant)
-- [Configurar seu ambiente de desenvolvimento](https://docs.microsoft.com/pt-BR/sharepoint/dev/spfx/set-up-your-development-environment)
+- [Configurar sua assinatura de desenvolvedor do Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [Configurar seu ambiente de desenvolvimento](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-development-environment)
 
 ## <a name="sharepoint-add-ins"></a>Suplementos do SharePoint 
 
-Um Suplemento do SharePoint é uma funcionalidade autocontida que estende os recursos de sites do SharePoint para resolver problemas de negócios bem definidos. Você pode criar dois tipos de Suplementos do SharePoint: hospedados pelo SharePoint e hospedados pelo provedor. Veja mais informações em [Suplementos do SharePoint](https://docs.microsoft.com/pt-BR/sharepoint/dev/sp-add-ins/sharepoint-add-ins).
+Um Suplemento do SharePoint é uma funcionalidade autocontida que estende os recursos de sites do SharePoint para resolver problemas de negócios bem definidos. Você pode criar dois tipos de Suplementos do SharePoint: hospedados pelo SharePoint e hospedados pelo provedor. Veja mais informações em [Suplementos do SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/sharepoint-add-ins).
 
 Para configurar e começar a codificação com os Suplementos do SharePoint:
 
-- [Configure sua assinatura](https://docs.microsoft.com/pt-BR/sharepoint/dev/spfx/set-up-your-developer-tenant).  
+- [Configure sua assinatura](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant).  
 - Configure seu ambiente de desenvolvimento: 
-  - [Introdução à criação de Suplementos do Suplementos do SharePoint hospedados no SharePoint](https://docs.microsoft.com/pt-BR/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
-  - [Introdução à criação de Suplementos do SharePoint hospedados pelo provedor](https://docs.microsoft.com/pt-BR/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
+  - [Introdução à criação dos suplementos do SharePoint hospedados pelo SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
+  - [Introdução à criação de suplementos do SharePoint hospedados pelo provedor](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
 
 ## <a name="see-also"></a>Confira também
 
-- [Ingressar no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
+- [Ingresse no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
 - [Configurar uma assinatura de desenvolvedor do Office 365](office-365-developer-program-get-started.md) 
+- [Renovar uma assinatura prestes a expirar](subscription-expiration-and-renewal.md)
 - [Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365](office-365-developer-program-faq.md) 

@@ -1,22 +1,22 @@
 ---
-title: Entre no Programa para Desenvolvedores do Office 365
-description: Entre no Programa para Desenvolvedores do Office 365 para desenvolver e testar soluções do Office 365 independentemente de seu ambiente de produção.
-ms.date: 03/20/2018
+title: Ingresse no Programa para Desenvolvedores do Office 365
+description: Ingresse no Programa para Desenvolvedores do Office 365 para desenvolver soluções do Office 365 independentemente de seu ambiente de produção.
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 9f2c07a16af6e164032c66c1ee93ee45417567ca
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015111"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31041981"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Bem-vindo ao Programa para Desenvolvedores do Office 365
 
-Junte-se a seus amigos e colegas no Programa para Desenvolvedores do Office 365. Use a assinatura de desenvolvedor do Office 365 para desenvolver e testar suas soluções independentemente de seu ambiente de produção. Você pode criar soluções para Microsoft Teams, suplementos do Office, Microsoft Graph, SharePoint Framework, suplementos do SharePoint e muito mais.
+Junte-se a seus amigos e colegas no Programa para Desenvolvedores do Office 365. Use a assinatura de desenvolvedor do Office 365 para desenvolver suas soluções independentemente de seu ambiente de produção. Você pode criar soluções para Microsoft Teams, suplementos do Office, Microsoft Graph, SharePoint Framework, suplementos do SharePoint e muito mais.
 
 ## <a name="join-the-office-365-developer-program"></a>Entre no Programa para Desenvolvedores do Office 365
 
-1. Vá para a página [Entrar no Programa de Desenvolvedores do Office 365](https://developer.microsoft.com/pt-BR/office/dev-program). 
+1. Vá para a página [Entrar no Programa de Desenvolvedores do Office 365](https://developer.microsoft.com/office/dev-program). 
 
 2. No canto superior direito, escolha **Entrar** para entrar com sua conta da Microsoft ou email habilitado para o Azure Active Directory. 
 
@@ -27,7 +27,7 @@ Junte-se a seus amigos e colegas no Programa para Desenvolvedores do Office 365.
 4. Na página **Inscrição no Programa de Desenvolvedores do Office 365**, preencha os seguintes campos no formulário online:
 
   - **Email de contato**
-  - **País/região**
+  - **País/Região**
   - **Empresa**
 
   <img alt="Join the Office 365 Developer Program form" src="images/1-welcome-page.png" width="500">
@@ -57,4 +57,8 @@ Junte-se a seus amigos e colegas no Programa para Desenvolvedores do Office 365.
 
 - Depois de concluir sua assinatura de desenvolvedor, [use sua assinatura](build-office-365-solutions.md) para criar os tipos de solução que você deseja.
 
-- Para perguntas frequentes sobre o Programa de Desenvolvedores do Office 365, confira [Perguntas Frequentes](office-365-developer-program-faq.md). 
+- Para obter informações sobre assinaturas prestes a expirar, consulte [Vencimento e renovação da assinatura](subscription-expiration-and-renewal.md).
+
+- Para perguntas frequentes sobre o Programa de Desenvolvedores do Office 365, confira [Perguntas Frequentes](office-365-developer-program-faq.md).
+
+
