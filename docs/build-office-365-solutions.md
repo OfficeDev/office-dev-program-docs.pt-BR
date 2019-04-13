@@ -3,12 +3,12 @@ title: Usar sua assinatura de desenvolvedor para criar soluções do Office 365
 description: Use sua assinatura de desenvolvedor para criar soluções do Office 365.
 ms.date: 03/20/2018
 localization_priority: Priority
-ms.openlocfilehash: 375514e1bc42742810c4d8a56a59fe24140abb27
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
+ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31041995"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31808097"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>Usar sua assinatura de desenvolvedor para criar soluções do Office 365
 
@@ -24,7 +24,7 @@ Veja aqui como instalar e fazer codificação com o Microsoft Teams:
 2. Defina seu ambiente de desenvolvimento. Este processo vai variar dependendo do tipo de aplicativo ou serviço que você está criando. Para obter detalhes, consulte Reference Architecture 2: Scaled Consolidated Edge (DNS Load Balanced).
 
   - [Introdução à plataforma do Microsoft Teams com Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - Introdução à plataforma do Microsoft Teams com C#/.NEThttps://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Comece a usar a plataforma Microsoft Teams com C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
@@ -60,7 +60,7 @@ Para configurar e começar a codificação com os Suplementos do SharePoint:
 
 ## <a name="see-also"></a>Confira também
 
-- [Ingresse no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
+- [Entre no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
 - [Configurar uma assinatura de desenvolvedor do Office 365](office-365-developer-program-get-started.md) 
 - [Renovar uma assinatura prestes a expirar](subscription-expiration-and-renewal.md)
 - [Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365](office-365-developer-program-faq.md) 
