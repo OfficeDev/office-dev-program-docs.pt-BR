@@ -4,11 +4,11 @@ description: Configure uma assinatura de desenvolvedor do Office 365 para criar 
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042002"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490936"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Configurar uma assinatura de desenvolvedor do Office 365 
 
@@ -40,7 +40,7 @@ Configure uma assinatura de desenvolvedor do Office 365 para criar suas soluçõ
 
 ## <a name="configure-the-subscription"></a>Configurar a assinatura
 
-1. Na página de perfil, escolha o link [office.com](https://www.office.com/) e entre com sua ID de usuário (por exemplo, username@domain.onmicrosoft.com) e a senha que você especificou para sua assinatura de desenvolvedor.
+1. Na sua página de perfil, escolha o link [office.com](https://www.office.com/) e entre com sua ID de usuário (por exemplo, usuario@dominio.onmicrosoft.com) e a senha que você especificou para a sua assinatura de desenvolvedor.
 
    > [!NOTE] 
    > Não acesse sua assinatura com as credenciais do programa de desenvolvedor.
@@ -67,7 +67,7 @@ Configure uma assinatura de desenvolvedor do Office 365 para criar suas soluçõ
   ![Instalar os aplicativos do Office](images/11-install-office-apps.png)
 
    > [!TIP] 
-   > Em visitas subsequentes ao Painel, entre com sua conta *username@domain*onmicrosoft.com antes de ir para o Painel.
+   > Em visitas subsequentes ao Painel, entre com sua conta *username@domain.onmicrosoft.com*.onmicrosoft.com antes de ir para o Painel.
 
 9. **Você chegou ao final da configuração**. Você concluiu a configuração de sua assinatura. Opcionalmente, você pode classificar a experiência. Quando estiver pronto, escolha **Ir para o Centro de administração**.
     
@@ -101,7 +101,7 @@ Se você decidir que não deseja mais participar do Programa de Desenvolvedor do
 
 ## <a name="see-also"></a>Confira também
 
-- [Ingresse no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
-- [Use sua assinatura para criar soluções do Office 365](build-office-365-solutions.md)
-- [Renovar uma assinatura prestes a expirar](subscription-expiration-and-renewal.md)
+- [Entrar no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
+- [Usar sua assinatura para criar soluções do Office 365](build-office-365-solutions.md)
+- [Renovar uma assinatura expirada](subscription-expiration-and-renewal.md)
 - [Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365](office-365-developer-program-faq.md)

@@ -3,12 +3,12 @@ title: Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365
 description: Perguntas frequentes sobre o Programa de Desenvolvedores do Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: cc87dd169705e4ac37e521ef8ca5d8529d810fe7
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042009"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490970"
 ---
 # <a name="office-365-developer-program-faq"></a>Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365
 
@@ -70,7 +70,7 @@ Sua assinatura de desenvolvedor inclui o seguinte:
 - [Flow para Office 365 Plano 2](https://flow.microsoft.com/pricing/)
 - [Microsoft Forms (Plano E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Stream para O365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Microsoft Stream para a SKU do Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Gerenciamento de Dispositivos Móveis para o Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
@@ -137,14 +137,14 @@ A assinatura de desenvolvedor do Office 365 é oferecida somente em inglês.
 Se você tiver problemas ao configurar sua assinatura, confira os seguintes recursos de suporte:
 
 - [Stack Overflow](https://stackoverflow.com/questions)   
-- [Atendimento ao cliente do Visual Studio](https://www.visualstudio.com/subscriptions/support/)
+- [Atendimento ao Cliente do Visual Studio](https://www.visualstudio.com/subscriptions/support/)
 
 ## <a name="see-also"></a>Confira também
 
-- [Ingresse no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
+- [Ingressar no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
 - [Configurar uma assinatura de desenvolvedor do Office 365](office-365-developer-program-get-started.md)
-- [Use sua assinatura para criar soluções do Office 365](build-office-365-solutions.md)
-- [Renovar uma assinatura prestes a expirar](subscription-expiration-and-renewal.md)
+- [Usar sua assinatura para criar soluções do Office 365](build-office-365-solutions.md)
+- [Renovar uma assinatura expirada](subscription-expiration-and-renewal.md)
 
 
  

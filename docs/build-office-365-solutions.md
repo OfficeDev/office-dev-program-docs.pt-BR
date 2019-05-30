@@ -4,11 +4,11 @@ description: Use sua assinatura de desenvolvedor para criar soluções do Office
 ms.date: 03/20/2018
 localization_priority: Priority
 ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
-ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31808097"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490876"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>Usar sua assinatura de desenvolvedor para criar soluções do Office 365
 
@@ -21,10 +21,11 @@ O Microsoft Teams é um espaço de trabalho baseado em bate-papo no Office 365, 
 Veja aqui como instalar e fazer codificação com o Microsoft Teams:
 
 1. [Prepare sua assinatura de desenvolvedor do Office 365](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-tenant).
-2. Defina seu ambiente de desenvolvimento. Este processo vai variar dependendo do tipo de aplicativo ou serviço que você está criando. Para obter detalhes, consulte Reference Architecture 2: Scaled Consolidated Edge (DNS Load Balanced).
+2. Defina seu ambiente de desenvolvimento. Este processo vai variar dependendo do tipo de aplicativo ou serviço que você está criando. Para obter informações detalhadas, consulte um dos seguintes itens:
 
   - [Introdução à plataforma do Microsoft Teams com Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Comece a usar a plataforma Microsoft Teams com C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - 
+  [Introdução à plataforma do Microsoft Teams com C#/.NET](https://docs.microsoft.com/pt-BR/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
@@ -55,12 +56,12 @@ Para configurar e começar a codificação com os Suplementos do SharePoint:
 
 - [Configure sua assinatura](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant).  
 - Configure seu ambiente de desenvolvimento: 
-  - [Introdução à criação dos suplementos do SharePoint hospedados pelo SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
-  - [Introdução à criação de suplementos do SharePoint hospedados pelo provedor](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
+  - [Introdução à criação de Suplementos do Suplementos do SharePoint hospedados no SharePoint](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins)  
+  - [Introdução à criação de Suplementos do SharePoint hospedados pelo provedor](https://docs.microsoft.com/sharepoint/dev/sp-add-ins/get-started-creating-provider-hosted-sharepoint-add-ins)  
 
 ## <a name="see-also"></a>Confira também
 
-- [Entre no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
+- [Ingressar no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
 - [Configurar uma assinatura de desenvolvedor do Office 365](office-365-developer-program-get-started.md) 
-- [Renovar uma assinatura prestes a expirar](subscription-expiration-and-renewal.md)
+- [Renovar uma assinatura expirada](subscription-expiration-and-renewal.md)
 - [Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365](office-365-developer-program-faq.md) 
