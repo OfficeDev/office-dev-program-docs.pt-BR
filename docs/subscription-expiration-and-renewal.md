@@ -4,11 +4,11 @@ description: Informações sobre como renovar uma assinatura de desenvolvedor ve
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044645"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491036"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Expiração e renovação da assinatura do Programa para Desenvolvedores do Office 365
 
@@ -70,9 +70,9 @@ Quando sua assinatura for excluída, você verá uma notificação em seu painel
 
 ## <a name="see-also"></a>Confira também
 
-- [Entre no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
+- [Ingressar no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
 - [Configurar uma assinatura de desenvolvedor do Office 365](office-365-developer-program-get-started.md)
-- [Use sua assinatura para criar soluções do Office 365](build-office-365-solutions.md)
+- [Usar sua assinatura para criar soluções do Office 365](build-office-365-solutions.md)
 - [Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365](office-365-developer-program-faq.md)
 
 
