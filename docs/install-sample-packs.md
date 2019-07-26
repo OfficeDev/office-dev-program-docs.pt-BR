@@ -2,12 +2,12 @@
 title: Use pacotes de dados de exemplo com sua assinatura de desenvolvedor do Office 365
 description: Saiba como instalar pacotes de dados de exemplo na sua assinatura de desenvolvedor do Office 365 para ajudar a organizar e manter o ambiente de área restrita funcionando rapidamente.
 localization_priority: Priority
-ms.openlocfilehash: 16e605080673678b750ebeab4501ceb980cea6cb
-ms.sourcegitcommit: 76c5e3c9b58026471378e7634d121842690fd517
+ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
+ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35618824"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902338"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Use pacotes de dados de exemplo com sua assinatura de desenvolvedor do Office 365
 
@@ -87,6 +87,15 @@ Sim. Adicionaremos pacotes de dados de exemplo do SharePoint e do OneDrive. No f
 ## <a name="can-i-install-sample-data-packs-on-my-other-office-365-subscriptions"></a>Posso instalar pacotes de dados de exemplo em minhas outras assinaturas do Office 365?
 
 Não. Esses pacotes de dados de exemplo são compatíveis apenas com a Assinatura de Desenvolvedor do Office 365, que você obtém como parte do Programa de Desenvolvedores do Office 365.
+
+## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>Como posso ver os dados de exemplo na minha assinatura?
+
+Depois de instalar o pacote de dados de exemplo de usuários, para ver os usuários que foram adicionados, acesse o **Centro de administração do Microsoft 365** na assinatura do desenvolvedor do Office 365. Em **Usuários**, selecione **Usuários ativos**. Você verá a lista de 16 usuários. Você pode selecionar um usuário para exibir os metadados associados, incluindo as fotos e as licenças.
+
+![Captura de tela de 16 usuários no Centro de administração do Microsoft 365, com metadados de um usuário selecionado](images/content-packs-07.PNG)
+
+Depois de instalar o pacote de exemplo de Email e Eventos, para visualizar os dados de exemplo, no **Centro de administração do Microsoft 365**, escolha **Mostrar tudo** e, em seguida, selecione **Exchange**. No Centro de administração do Exchange, ao selecionar **destinatários**, você pode ver que todos os 16 usuários têm caixas de correio com email e eventos adicionados.
+![Captura de tela de 16 usuários adicionados ao Centro de administração do Exchange](images/content-packs-08.PNG)
 
 ## <a name="see-also"></a>Confira também
 
