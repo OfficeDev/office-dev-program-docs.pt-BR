@@ -2,12 +2,12 @@
 title: Use pacotes de dados de exemplo com sua assinatura de desenvolvedor do Office 365
 description: Saiba como instalar pacotes de dados de exemplo na sua assinatura de desenvolvedor do Office 365 para ajudar a organizar e manter o ambiente de área restrita funcionando rapidamente.
 localization_priority: Priority
-ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
-ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
+ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
+ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902338"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36465087"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Use pacotes de dados de exemplo com sua assinatura de desenvolvedor do Office 365
 
@@ -15,7 +15,7 @@ Você pode instalar pacotes de dados de exemplo na sua assinatura do desenvolved
 
 Você pode encontrar pacotes de dados de exemplo no [painel do Programa para Desenvolvedores do Office 365](https://developer.microsoft.com/office/profile), na parte inferior do bloco de assinatura do Office 365.
 
-![Captura de tela do bloco da assinatura na página de painel](images/content-packs-06.PNG)
+![Captura de tela do bloco da assinatura na página de painel](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
 Os pacotes de dados de exemplo a seguir estão atualmente disponíveis:
 
@@ -45,6 +45,9 @@ O pacote de dados de exemplo de Email e Eventos adiciona conversas de email do O
 
 Antes de instalar o pacote de dados de exemplo de Usuários, certifique-se de que você tem uma assinatura de desenvolvedor do Office 365 e que atribuiu uma licença a si mesmo como administrador.
 
+> [!NOTE]
+> Certifique-se de que tem 16 usuários disponíveis na sua assinatura. Sua assinatura inclui 25 usuários. Se você já tiver configurado mais de 10 usuários, primeiro remova alguns usuários para garantir que a instalação seja bem-sucedida.
+
 Para instalar o pacote de dados de exemplo de Usuários:
 
 1. Selecione a caixa **Usuários** na parte inferior de seu bloco de assinatura.
@@ -52,19 +55,19 @@ Para instalar o pacote de dados de exemplo de Usuários:
 3. Insira sua ID e senha de administrador na página de entrada.
 4. Conceda permissões como administrador da sua assinatura de desenvolvedor do Office 365.
 
-![Captura de tela mostrando a caixa de diálogo de permissões e consentimento. ](images/content-packs-01.png)
+![Captura de tela mostrando a caixa de diálogo de permissões e consentimento. ](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Configure suas senhas para todos os usuários de exemplo. Será preciso ter uma senha compartilhada definida para facilitar a administração de todos os seus usuários fictícios.
 
-![Captura de tela da caixa de diálogo para adicionar senha de usuário compartilhado](images/content-packs-02.png)
+![Captura de tela da caixa de diálogo para adicionar senha de usuário compartilhado](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. Os dados serão instalados. A instalação levará cerca de 5 min.
 
-![Captura de tela mostrando o processo de instalação no bloco do painel](images/content-packs-03.PNG)
+![Captura de tela mostrando o processo de instalação no bloco do painel](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. Quando a instalação for concluída, você receberá uma notificação por email e a caixa em seu bloco de assinatura ficará verde. Agora, você pode instalar o pacote de dados de exemplo de Email e Eventos.
 
-![Captura de tela do bloco do painel com o Email e Eventos prontos para instalação](images/content-packs-04.PNG)
+![Captura de tela do bloco do painel com o Email e Eventos prontos para instalação](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ## <a name="how-do-i-install-the-mail-and-events-sample-data-pack"></a>Como instalar o pacote de dados de exemplo de Email e Eventos?
 
@@ -73,7 +76,7 @@ Depois de instalar o pacote de dados de exemplo Usuários, você pode instalar o
 1. Escolha a caixa **Email &amp; Eventos** no bloco da sua assinatura.
 2. Clique em **Instalar** para iniciar a instalação.
 
-![Captura de tela da caixa de diálogo de instalação](images/content-packs-05.png)
+![Captura de tela da caixa de diálogo de instalação](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
 > [!NOTE]
 > Se você acabou de criar sua assinatura, ela deve ser totalmente provisionada antes do início da instalação. Isso pode levar algumas horas. Após iniciada, a instalação pode levar até 20 minutos para ser concluída.
