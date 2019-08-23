@@ -24,8 +24,7 @@ Veja aqui como instalar e fazer codificação com o Microsoft Teams:
 2. Defina seu ambiente de desenvolvimento. Este processo vai variar dependendo do tipo de aplicativo ou serviço que você está criando. Para obter informações detalhadas, consulte um dos seguintes itens:
 
   - [Introdução à plataforma do Microsoft Teams com Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - 
-  [Introdução à plataforma do Microsoft Teams com C#/.NET](https://docs.microsoft.com/pt-BR/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Introdução à plataforma do Microsoft Teams com C#/.NET](https://docs.microsoft.com/pt-BR/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
