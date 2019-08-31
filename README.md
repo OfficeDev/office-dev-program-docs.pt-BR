@@ -1,7 +1,7 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Código de Conduta de software livre da Microsoft
+## <a name="microsoft-open-source-code-of-conduct"></a>Código de conduta do Código Aberto da Microsoft
 
-Este projeto adotou o [Código de Conduta de Software Livre da Microsoft](https://opensource.microsoft.com/codeofconduct/).
+Este projeto adotou o [Código de Conduta de software livre da Microsoft](https://opensource.microsoft.com/codeofconduct/).
 
-Para saber mais, confira as [Perguntas frequentes sobre o Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/). 
+Para obter mais informações, consulte o [código de perguntas frequentes sobre conduta](https://opensource.microsoft.com/codeofconduct/faq/). 
 
-Para as outras dúvidas ou comentários, contate [opencode@microsoft.com](mailto:opencode@microsoft.com). 
+Para dúvidas ou comentários adicionais, entre em contato com a [opencode@microsoft.com](mailto:opencode@microsoft.com). 
