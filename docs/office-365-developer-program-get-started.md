@@ -3,12 +3,12 @@ title: Configurar uma assinatura de desenvolvedor do Microsoft 365
 description: Configure uma assinatura de desenvolvedor do Office 365 para criar soluções independentemente de seu ambiente de produção.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
-ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
+ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
+ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713888"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717514"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurar uma assinatura de desenvolvedor do Microsoft 365 
 
@@ -21,9 +21,7 @@ Os clientes que participaram do programa antes de 25 de agosto de 2019 possuem u
 
 ## <a name="set-up-your-subscription"></a>Configurar a assinatura
 
-1. Para obter uma assinatura de desenvolvedor do Office 365, em sua página de perfil, em **Precisa de uma assinatura do Office 365 para desenvolvimento?**, escolha **Configurar uma assinatura**.
-
-  ![Configurar uma assinatura](images/4-set-up-subscription.png)
+1. Para obter uma assinatura de desenvolvedor do Office 365, em sua página de perfil, selecione **Configurar assinatura**.
 
 2. Na caixa de diálogo**Configura sua assinatura de desenvolvedor**, crie um nome de usuário e domínio. Essa conta deve ter permissões de Administrador Global e para a assinatura. Você pode escolher qualquer nome de usuário ou nome de domínio, desde que ainda não estejam em uso. Não use espaços.
 
@@ -42,14 +40,14 @@ Os clientes que participaram do programa antes de 25 de agosto de 2019 possuem u
 
 ## <a name="configure-the-subscription"></a>Configurar a assinatura
 
-1. Na sua página de perfil, escolha o link [office.com](https://www.office.com/) e entre com sua ID de usuário (por exemplo, usuario@dominio.onmicrosoft.com) e a senha que você especificou para a sua assinatura de desenvolvedor.
+1. Na sua página de perfil, escolha o link **Ir para a assinatura** e entre com sua ID de usuário (por exemplo, usuario@dominio.onmicrosoft.com) e a senha que você especificou para a sua assinatura de desenvolvedor.
 
    > [!NOTE] 
    > Não acesse sua assinatura com as credenciais do programa de desenvolvedor.
 
-2. Use o inicializador de aplicativos para ir para o [Centro de administração](https://portal.office.com/adminportal/home#/homepage).
+2. Use o inicializador de aplicativos para ir para o [Centro de administração](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
-3. Na página inicial do Centro de administração, escolha **Ir para a configuração**. Isso levará você à página **Configuração do Office 365 Enterprise E3 Developer**.
+3. Na página inicial do Centro de administração, escolha **Ir para a configuração**. Você será direcionado para a **Página de Configuração de Desenvolvedor do Microsoft 365 E5**. 
 
 4. **Personalize seu login e email**. Você pode conectar a sua assinatura a um domínio, ou então apenas usar o subdomínio existente que você criou. Quando estiver pronto, escolha **Avançar**.
 
