@@ -1,18 +1,20 @@
 ---
-title: Configurar uma assinatura de desenvolvedor do Office 365
+title: Configurar uma assinatura de desenvolvedor do Microsoft 365
 description: Configure uma assinatura de desenvolvedor do Office 365 para criar soluções independentemente de seu ambiente de produção.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490936"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713888"
 ---
-# <a name="set-up-an-office-365-developer-subscription"></a>Configurar uma assinatura de desenvolvedor do Office 365 
+# <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurar uma assinatura de desenvolvedor do Microsoft 365 
 
-Configure uma assinatura de desenvolvedor do Office 365 para criar suas soluções independentemente de seu ambiente de produção. A assinatura é uma assinatura do Office 365 Enterprise E3 Developer com 25 licenças de usuário. Ela dura 90 dias e é gratuita para uso para fins de desenvolvimento (soluções de codificação).
+Configure uma assinatura de desenvolvedor do Office 365 para criar soluções independentemente do ambiente de produção. A assinatura do Office 365 Enterprise E5 Developer vem com 25 licenças de usuário. Ela dura 90 dias e é gratuita para uso apenas com fins de desenvolvimento (soluções de codificação). 
+
+Os clientes que participaram do programa antes de 25 de agosto de 2019 possuem uma assinatura do Office 365 E3 Developer.
 
 > [!NOTE] 
 > Para configurar uma assinatura, primeiro é necessário [entrar no Programa de Desenvolvedores do Office 365](office-365-developer-program.md). Depois de ingressar, você verá a opção de configurar uma assinatura.
