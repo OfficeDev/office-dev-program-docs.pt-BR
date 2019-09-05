@@ -3,12 +3,12 @@ title: Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365
 description: Perguntas frequentes sobre o Programa de Desenvolvedores do Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 8ac783772bd08bb4bcde6b775fc8c58b79595307
-ms.sourcegitcommit: e8d195d7e27198b13360c0de7435514c950e0bad
+ms.openlocfilehash: 9747238ed915f0b122ac9bf924d0d850d0dd55ad
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916889"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713895"
 ---
 # <a name="office-365-developer-program-faq"></a>Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365
 
@@ -62,9 +62,10 @@ Sua atividade no Programa para Desenvolvedores do Office 365 e na sua assinatura
 
 Para mais informações sobre os tipos de atividades que monitoramos, consulte os [termos de uso da assinatura de desenvolvedor do Office 365](terms-and-conditions.md). 
 
-## <a name="whats-included-in-the-office-365-developer-subscription"></a>O que está incluído na assinatura de desenvolvedor do Office 365?
+## <a name="whats-included-in-the-developer-subscription"></a>O que está incluído na assinatura de desenvolvedor?
+Se a assinatura foi criada após 25 de agosto de 2019, você tem uma assinatura de Desenvolvedor do Microsoft 365 E5 com 25 licenças de usuário. Os clientes que se cadastraram no programa antes de 25 de agosto de 2019 possuem uma assinatura de Desenvolvedor do Office 365 E3 com 25 licenças de usuário.
 
-Sua assinatura de desenvolvedor inclui o seguinte:
+A assinatura de Desenvolvedor do Office 365 E3 inclui o seguinte:
 
 - [Exchange Online (Plano 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Flow para Office 365](https://flow.microsoft.com/pricing/)
@@ -83,6 +84,69 @@ Sua assinatura de desenvolvedor inclui o seguinte:
 - [Sway](https://sway.com/)
 - [To-Do (Plano 3)](https://todo.microsoft.com)
 - [Quadro de Comunicações (Plano 2)](https://products.office.com/pt-BR/microsoft-whiteboard/digital-whiteboard-app)
+
+A assinatura de Desenvolvedor do Microsoft 365 E5 inclui todos os aplicativos incluídos na assinatura de Desenvolvedor do Office 365 E3, além dos novos recursos a seguir:  
+
+- Análise avançada com o Power BI  
+- Enterprise Mobility + Security (EMS) para conformidade e proteção das informações  
+- Proteção Avançada contra Ameaças do Office 365 
+- Azure Active Directory para criar soluções avançadas de gerenciamento de identidades e acesso  
+
+A assinatura de Desenvolvedor do Microsoft 365 E5 inclui o seguinte: 
+
+- Azure Active Directory Premium P1 
+- Azure Active Directory Premium P2 
+-   Proteção Avançada contra Ameaças do Azure 
+-   Proteção de Informações do Azure Premium P1 
+-   Proteção de Informações do Azure Premium P2 
+-   Sistema de Proteção de Dados do Cliente 
+-   Exchange Online (Plano 2) 
+-   Flow para Office 365 
+-   Proteção de Informações para o Office 365 – Premium 
+-   Proteção de informações para o Office 365 – Padrão 
+-   Microsoft Azure Active Directory Rights 
+-   Autenticação Multifator do Microsoft Azure 
+-   Microsoft Cloud App Security 
+-   Microsoft Forms (Plano E5) 
+-   Microsoft Intune 
+-   Microsoft MyAnalytics (Completo) 
+-   Microsoft Planner 
+-   Microsoft StaffHub 
+-   Microsoft Stream para O365 E5 SKU 
+-   Microsoft Teams 
+-   Gerenciamento de Dispositivos Móveis para o Office 365 
+-   Descoberta Eletrônica Avançada do Office 365 
+-   Gerenciamento de Segurança Avançada do Office 365 
+-   Proteção contra Ameaças do Office 365 Advanced (Plano 1) 
+-   Proteção contra Ameaças do Office 365 Advanced (Plano 2) 
+-   Privileged Access Management para Office 365 
+-   Office 365 ProPlus 
+-   Office Online 
+-   Sistema Telefônico 
+-   Power BI Pro 
+-   PowerApps para Office 365 Plano 3 
+-   SharePoint Online (Plano 2) 
+-   Skype for Business Online (Plano 2) 
+-   Sway 
+-   To-Do (Plano 3) 
+-   Quadro de Comunicações (Plano 3) 
+-   Yammer Enterprise 
+
+## <a name="how-do-i-know-which-subscription-i-have"></a>Como descubro qual versão eu tenho?
+
+Você pode determinar se possui uma assinatura do Microsoft 365 E5 ou uma assinatura do Office 365 E3 no bloco de assinaturas do seu [painel](https://developer.microsoft.com/office/profile). O bloco exibirá E3 ou E5 abaixo do nome de domínio da assinatura.
+
+![Captura de tela de um bloco de assinatura com o E5 destacado](images/subscription-tile-e5.png).
+
+## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Como migrar de uma assinatura do Office 365 E3 para uma assinatura do Microsoft 365 e5?
+
+Atualmente, somente os novos membros do Programa para Desenvolvedores do Office 365 receberão automaticamente uma assinatura de Desenvolvedor do Microsoft 365 E5. Os usuários existentes poderão migrar para uma assinatura do Microsoft 365 E5 no futuro. Fique tranquilo, estamos trabalhando para permitir que todos os membros do Programa para Desenvolvedores do Office 365 migrem para o Microsoft 365 E5. 
+
+## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>Posso escolher entre ter uma assinatura do Office 365 E3 ou do Microsoft 365 E5?
+
+Atualmente, apenas novos membros do Programa para Desenvolvedores recebem uma assinatura do Microsoft 365 E5. Os membros existentes que possuem uma assinatura do Office 365 E3 terão a opção de manter a assinatura atual e continuar renovando-a, caso não precisem dos novos recursos oferecidos no Microsoft 365 E5. Os membros do programa para desenvolvedores só podem ter uma assinatura.  
+
+Quando tivermos uma opção de migração para membros existentes do Programa para Desenvolvedores, forneceremos mais informações sobre como migrar. 
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>A assinatura também inclui uma assinatura do Azure?
 
