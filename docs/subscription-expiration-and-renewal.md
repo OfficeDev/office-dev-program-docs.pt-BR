@@ -3,12 +3,12 @@ title: Expiração e renovação da assinatura do Programa para Desenvolvedores 
 description: Informações sobre como renovar uma assinatura de desenvolvedor vencida.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: d22afb89b1f7d1c537ab3153876d3f227b33f1e2
-ms.sourcegitcommit: dcd023e761e89104a588768d71fc966729280e24
+ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
+ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35922102"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747114"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Expiração e renovação da assinatura do Programa para Desenvolvedores do Office 365
 
@@ -46,7 +46,7 @@ Quando sua assinatura expirar, você verá o seguinte texto de aviso.
 
 <img alt="Screenshot of a text box with the title This subscription expired on Feb 1, 2019" src="images/16-renewable-notice-red.png" width="500"> 
 
-Se você for um desenvolvedor ativo, sua assinatura será renovada automaticamente por mais 90 dias. 
+Se você for um desenvolvedor ativo, sua assinatura será renovada automaticamente por mais 90 dias a partir da data original de vencimento. 
 
 ## <a name="why-isnt-my-current-subscription-renewable"></a>Por que minha assinatura atual não é renovável?
 
