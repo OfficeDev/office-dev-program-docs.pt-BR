@@ -3,12 +3,12 @@ title: Configurar uma assinatura de desenvolvedor do Microsoft 365
 description: Configure uma assinatura de desenvolvedor do Office 365 para criar soluções independentemente de seu ambiente de produção.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
-ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
+ms.openlocfilehash: eadab2c1274260c1b5697bcd3f0473d1469a78c2
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717514"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275448"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurar uma assinatura de desenvolvedor do Microsoft 365 
 
@@ -43,15 +43,13 @@ Os clientes que participaram do programa antes de 25 de agosto de 2019 possuem u
 1. Na sua página de perfil, escolha o link **Ir para a assinatura** e entre com sua ID de usuário (por exemplo, usuario@dominio.onmicrosoft.com) e a senha que você especificou para a sua assinatura de desenvolvedor.
 
    > [!NOTE] 
-   > Não acesse sua assinatura com as credenciais do programa de desenvolvedor.
+   > Não acesse sua assinatura com o ID de conta do programa de desenvolvedor.
 
 2. Use o inicializador de aplicativos para ir para o [Centro de administração](https://admin.microsoft.com/AdminPortal/Home#/homepage).
 
 3. Na página inicial do Centro de administração, escolha **Ir para a configuração**. Você será direcionado para a **Página de Configuração de Desenvolvedor do Microsoft 365 E5**. 
 
 4. **Personalize seu login e email**. Você pode conectar a sua assinatura a um domínio, ou então apenas usar o subdomínio existente que você criou. Quando estiver pronto, escolha **Avançar**.
-
-  ![Personalizar seu login e página de email](images/8a-set-up-personalize.png)
 
 5. **Adicione novos usuários**. Você pode adicionar novos usuários. Estes podem ser usuários fictícios, ou usuários reais para ajudar no seu desenvolvimento. Quando estiver pronto, escolha **Avançar**.
     
@@ -63,8 +61,6 @@ Os clientes que participaram do programa antes de 25 de agosto de 2019 possuem u
 7. **Compartilhe as credenciais de entrada**. Você precisa compartilhar as credenciais de entrada com quaisquer usuários reais que irão acessar a assinatura. Você pode escolher um método, como email, download ou imprimir. Quando estiver pronto, escolha **Avançar**.
 
 8. **Instale os aplicativos do Office**. Você tem a opção de instalar os aplicativos do Office no seu computador. Quando estiver pronto, escolha **Avançar**.
-
-  ![Instalar os aplicativos do Office](images/11-install-office-apps.png)
 
    > [!TIP] 
    > Em visitas subsequentes ao Painel, entre com sua conta *username@domain.onmicrosoft.com*.onmicrosoft.com antes de ir para o Painel.
