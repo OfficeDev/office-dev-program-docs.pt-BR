@@ -24,13 +24,13 @@ Veja aqui como instalar e fazer codificação com o Microsoft Teams:
 2. Defina seu ambiente de desenvolvimento. Este processo vai variar dependendo do tipo de aplicativo ou serviço que você está criando. Para obter informações detalhadas, consulte um dos seguintes itens:
 
   - [Introdução à plataforma do Microsoft Teams com Node.js](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Introdução à plataforma do Microsoft Teams com C#/.NET](https://docs.microsoft.com/pt-BR/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Introdução à plataforma do Microsoft Teams com C#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
 Você pode usar o Microsoft Graph para interagir com os dados de milhões de usuários na nuvem da Microsoft. Use o Microsoft Graph para criar aplicativos para organizações e consumidores que se conectam a uma ampla variedade de recursos, relações e inteligência, tudo por um único ponto de extremidade: `https://graph.microsoft.com`.
 
-Para configurar e a codificar com o Microsoft Graph, confira [Introdução à criação de aplicativos do Microsoft Graph](https://developer.microsoft.com/pt-BR/graph/get-started) ou o [Início Rápido](https://developer.microsoft.com/pt-BR/graph/quick-start) do Microsoft Graph.
+Para configurar e a codificar com o Microsoft Graph, confira [Introdução à criação de aplicativos do Microsoft Graph](https://developer.microsoft.com/en-us/graph/get-started) ou o [Início Rápido](https://developer.microsoft.com/en-us/graph/quick-start) do Microsoft Graph.
 
 ## <a name="office-add-ins"></a>Suplementos do Office
 
