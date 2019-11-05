@@ -3,12 +3,12 @@ title: Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365
 description: Perguntas frequentes sobre o Programa de Desenvolvedores do Office 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: acf847e4d6c7f06058b78383ab4e425cee3745d6
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: db2fc80d496238d090b4528e26f6afda7ccc2696
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275441"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962237"
 ---
 # <a name="office-365-developer-program-faq"></a>Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365
 
@@ -187,7 +187,7 @@ Sim, você pode seguir [estas instruções](office-365-developer-program.md) par
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>Como funcionário da Microsoft em tempo integral, posso receber uma assinatura?
 
-Funcionários da Microsoft não podem se inscrever para essa oferta. No entanto, todos os funcionários de tempo integral Microsoft têm acesso a uma assinatura gratuita do Visual Studio (MSDN), que inclui acesso ao Office E3 Developer. Você pode acessar esse benefício em [Visual Studio | Meu benefícios](https://my.visualstudio.com/benefits).
+Funcionários da Microsoft não podem se inscrever para essa oferta. Todos os funcionários de tempo integral Microsoft têm acesso a uma assinatura gratuita do Visual Studio (MSDN), que inclui acesso a assinatura de desenvolvedor do Microsoft 365 E5. Você pode acessar esse benefício em [Visual Studio | Meu benefícios](https://my.visualstudio.com/benefits).
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>Como fornecedor da Microsoft, sou elegível para uma assinatura?
 
