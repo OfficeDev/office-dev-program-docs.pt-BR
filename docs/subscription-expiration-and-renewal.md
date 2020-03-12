@@ -3,24 +3,24 @@ title: Expiração e renovação da assinatura do Programa para Desenvolvedores 
 description: Informações sobre como renovar uma assinatura de desenvolvedor vencida.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
-ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
+ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747114"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600792"
 ---
-# <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Expiração e renovação da assinatura do Programa para Desenvolvedores do Office 365
+# <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Expiração e renovação da assinatura do Programa para Desenvolvedores do Office 365
 
-Sua associação ao Programa para Desenvolvedores do Office 365 inclui uma assinatura gratuita do desenvolvedor do Office 365. Sua assinatura do desenvolvedor é renovável com base em suas atividades de desenvolvimento; no entanto, algumas assinaturas mais antigas expiram. Este artigo descreve a diferença entre assinaturas renováveis e não renovável e como atualizar sua assinatura se ela expirar.
+Sua associação ao Programa para Desenvolvedores do Microsoft 365 inclui uma assinatura de desenvolvedor gratuita do Office 365 E3 ou Microsoft 365 E5. Sua assinatura do desenvolvedor é renovável com base em suas atividades de desenvolvimento; no entanto, algumas assinaturas mais antigas expiram. Este artigo descreve a diferença entre assinaturas renováveis e não renovável e como atualizar sua assinatura se ela expirar.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Assinaturas do desenvolvedor expiráveis versus renováveis
 
-Com o lançamento do Programa para desenvolvedores do Office 365, oferecemos assinaturas para desenvolvedores de 12 meses que expiram e não podem ser renovadas. Em agosto de 2018, começamos a fornecer assinaturas renováveis para alguns membros do programa para desenvolvedores.
+Com o lançamento do Programa para Desenvolvedores do Microsoft 365, oferecemos assinaturas de desenvolvedor de 12 meses que expiram e não podem ser renovadas. Em agosto de 2018, começamos a fornecer assinaturas renováveis para alguns membros do programa para desenvolvedores.
 
 A partir de abril de 2019, oferecemos assinaturas renováveis de 90 dias.
 
-Você pode determinar se você tem uma assinatura renovável ou não renovável visualizando o painel do [Programa para Desenvolvedores do Office 365](https://developer.microsoft.com/pt-BR/office/profile).
+Você pode determinar se possui uma assinatura renovável ou não renovável, visualizando o [painel do Programa para Desenvolvedores do Microsoft 365](https://aka.ms/DevProgramDashboard).
 
 ## <a name="non-renewable-subscriptions"></a>Assinaturas não renováveis
 
@@ -58,9 +58,9 @@ Introduzimos assinaturas renováveis em agosto de 2018. Se você optou por sua a
 
 Para migrar seus dados da sua assinatura atual para uma nova assinatura, consulte os seguintes recursos:
 
-- [Como migrar caixas de correio de um locatário do Office 365 para outro](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [Usar o PowerShell para realizar uma migração em estágios para o Office 365](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
-- [Migração de uma assinatura do Office 365 para outra sem terceiros](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
+- [Como migrar caixas de correio de um locatário para outro](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [Usar o PowerShell para executar uma migração em etapas](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [Migração de uma assinatura para outra sem terceiros](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>Como eu sei se a minha assinatura foi excluída?
 
@@ -68,12 +68,12 @@ Quando sua assinatura for excluída, você verá uma notificação em seu painel
 
 <img alt="Screenshot of a text box with the title Deleted subscription" src="images/17-deleted-subscription.png" width="500"> 
 
-## <a name="see-also"></a>Confira também
+## <a name="see-also"></a>Também consulte
 
-- [Ingressar no Programa para Desenvolvedores do Office 365](office-365-developer-program.md)
-- [Configurar uma assinatura de desenvolvedor do Office 365](office-365-developer-program-get-started.md)
-- [Usar sua assinatura para criar soluções do Office 365](build-office-365-solutions.md)
-- [Perguntas frequentes sobre o Programa para Desenvolvedores do Office 365](office-365-developer-program-faq.md)
+- [Participe do Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program.md)
+- [Configurar uma assinatura de desenvolvedor do Microsoft 365](microsoft-365-developer-program-get-started.md)
+- [Usar sua assinatura para criar soluções do Microsoft 365](build-microsoft-365-solutions.md)
+- [Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program-faq.md)
 
 
 
