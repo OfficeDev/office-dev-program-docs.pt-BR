@@ -1,14 +1,14 @@
-- name: Programa de desenvolvedor do Microsoft 365
+- name: Programa para Desenvolvedores do Microsoft 365
   href: microsoft-365-developer-program.md
 - name: Configurar uma assinatura de desenvolvedor
   href: microsoft-365-developer-program-get-started.md
-- name: Soluções de compilação
+- name: Criar soluções
   href: build-microsoft-365-solutions.md
 - name: Usar pacotes de dados de exemplo
   href: install-sample-packs.md
-- name: Validade e renovação da assinatura
+- name: Expiração e renovação da assinatura
   href: subscription-expiration-and-renewal.md
-- name: Perguntas frequentes do programa de desenvolvedor
+- name: Perguntas frequentes sobre o Programa para Desenvolvedores
   href: microsoft-365-developer-program-faq.md
 - name: Termos e condições
   href: terms-and-conditions.md
