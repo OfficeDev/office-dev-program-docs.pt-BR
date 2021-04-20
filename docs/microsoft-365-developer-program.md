@@ -1,17 +1,19 @@
 ---
-title: Participe do Programa para Desenvolvedores do Microsoft 365
+title: Bem-vindo ao Programa para Desenvolvedores do Microsoft 365
 description: Ingresse no Programa para Desenvolvedores do Microsoft 365 para desenvolver soluções do Microsoft 365 independentemente de seu ambiente de produção.
 localization_priority: Priority
-ms.openlocfilehash: f058f69ea726f948e1aa30232fe611d7f459a2f4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601276"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890155"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Bem-vindo ao Programa para Desenvolvedores do Microsoft 365
 
-Junte-se a seus amigos e colegas no Programa para Desenvolvedores do Microsoft 365. Use a assinatura de desenvolvedor do Microsoft 365 para desenvolver suas soluções independentemente de seu ambiente de produção. Você pode criar soluções para Microsoft Teams, Suplementos do Office, Microsoft Graph, SharePoint Framework, Suplementos do SharePoint e muito mais.
+O Programa para Desenvolvedores do Microsoft 365 inclui uma assinatura de desenvolvedor do Microsoft 365 E5 que você pode usar para criar sua própria área restrita e desenvolver soluções independentes de seu ambiente de produção. Você pode criar aplicativos do Microsoft Teams, Suplementos do Office para Word, Excel, PowerPoint ou Outlook, ou Suplementos do SharePoint, usando o Microsoft Graph, a Estrutura do SharePoint, o Power Apps e muito mais.
+
+Você tem uma assinatura do Visual Studio Pro ou Enteprise? Se tiver, você poderá aproveitar os benefícios adicionais ao ingressar no programa. Para obter detalhes, confira [Ingressar com o Visual Studio](join-with-visual-studio.md).
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Participe do Programa para Desenvolvedores do Microsoft 365
 
@@ -42,7 +44,7 @@ Junte-se a seus amigos e colegas no Programa para Desenvolvedores do Microsoft 3
     - O tipo de aplicativos ou soluções que você tem interesse em desenvolver.
     - Produtos, tecnologias e linguagens de programação em que você tem interesse.
 
-9. Ao finalizar, clique em **Participar**. Suas preferências aparecem na página seguinte, no canto superior direito, e você receberá uma mensagem de boas-vindas.
+9. Ao finalizar, clique em **Participar**. Suas preferências aparecem na página seguinte, no canto superior direito, e você receberá uma mensagem e um e-mail de boas-vindas.
 
 
 
