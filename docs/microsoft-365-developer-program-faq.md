@@ -3,12 +3,12 @@ title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 3
 description: Perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: e52eccadf91e9a42534a79cb1ec7f6d48dbede46
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601272"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890186"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
 
@@ -33,7 +33,7 @@ Para mais informações, confira [Ingresse no Programa para Desenvolvedores do M
 Você pode se inscrever no programa para desenvolvedores usando um dos seguintes tipos de conta:
 
 - **Conta Microsoft** (criada por você para uso pessoal) - Fornece acesso a todos os produtos da Microsoft direcionados ao consumidor e serviços de nuvem, como o Outlook (Hotmail), Messenger, OneDrive, MSN, Xbox Live ou Microsoft 365. Sua inscrição para uma caixa de correio do Outlook.com cria automaticamente um conta da Microsoft. Depois da criação de uma conta da Microsoft, ela pode ser usada para acessar serviços em nuvem direcionados ao consumidor, ou o Azure. 
-- **Conta corporativa** (emitida por um administrador para uso comercial) - Fornece acesso, a todas as pequenas, médias e grandes empresas, a todos os serviços em nuvem da Microsoft, incluindo Azure, Microsoft Intune ou Microsoft 365. Quando você acessa um desses serviços como uma organização, um diretório de nuvem é provisionado automaticamente no Azure Active Directory para representar a sua organização. Para saber mais, confira [Gerenciar seu diretório do Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-administer).
+- **Conta corporativa** (emitida por um administrador para uso comercial) - Fornece acesso, a todas as pequenas, médias e grandes empresas, a todos os serviços em nuvem da Microsoft, incluindo Azure, Microsoft Intune ou Microsoft 365. Quando você acessa um desses serviços como uma organização, um diretório de nuvem é provisionado automaticamente no Azure Active Directory para representar a sua organização. Para saber mais, confira [Gerenciar seu diretório do Azure AD](/azure/active-directory/active-directory-administer).
 - **ID do Visual Studio** (criado para suas assinaturas do Visual Studio Professional ou Enterprise) - Recomendamos que você use esta opção para ingressar no programa de desenvolvedores a partir de dentro da Galeria do Visual Studio, para obter todos os benefícios como assinante do Visual Studio. 
 
 ## <a name="how-can-i-get-a-microsoft-365-developer-subscription-via-the-developer-program"></a>Como posso obter uma assinatura de desenvolvedor do Microsoft 365 por meio do Programa para Desenvolvedores?  
@@ -59,12 +59,13 @@ A assinatura de Desenvolvedor do Office 365 E3 inclui o seguinte:
 - [Proteção de informações para o Office 365 – Padrão](https://products.office.com/pt-BR/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (Plano E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Pesquisa da Microsoft](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
+- 
+  [Pesquisa da Microsoft](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
 - [Microsoft Stream para a SKU do Office 365 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Gerenciamento de Dispositivos Móveis para o Office 365](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- [Office para a Web](https://docs.microsoft.com/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [Office para a Web](/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps para o Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online para Desenvolvedores](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online (Plano 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
@@ -183,11 +184,11 @@ Quando tivermos uma opção de migração para membros existentes do Programa pa
 
 ## <a name="as-a-microsoft-partner-can-i-receive-a-subscription"></a>Como um Microsoft Partner, posso receber uma assinatura? 
 
-Sim, você pode seguir [estas instruções](microsoft-365-developer-program.md) para ingressar no Programa para Desenvolvedores do Microsoft 365 e configurar uma assinatura de desenvolvedor do Microsoft 365. No entanto, se você já tiver uma assinatura do Visual Studio Enterprise ou Visual Studio Professional (MSDN), você pode obter uma assinatura de desenvolvedor do Microsoft 365 como benefício. Para acessar, vá para [Visual Studio | Meu Benefícios](https://my.visualstudio.com/benefits). Para saber mais, contate o [Atendimento ao Cliente do Visual Studio](https://www.visualstudio.com/subscriptions/support/). 
+Sim, você pode seguir [estas instruções](microsoft-365-developer-program.md) para ingressar no Programa para Desenvolvedores do Microsoft 365 e configurar uma assinatura de desenvolvedor do Microsoft 365. No entanto, se você já tiver uma assinatura do Visual Studio Enterprise ou Visual Studio Professional, você pode obter uma assinatura de desenvolvedor do Microsoft 365 como benefício. Para acessar, vá para [Visual Studio | Meu Benefícios](https://my.visualstudio.com/benefits). Para saber mais, contate o [Atendimento ao Cliente do Visual Studio](https://www.visualstudio.com/subscriptions/support/). 
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>Como funcionário da Microsoft em tempo integral, posso receber uma assinatura?
 
-Funcionários da Microsoft não podem se inscrever para essa oferta. Todos os funcionários de tempo integral Microsoft têm acesso a uma assinatura gratuita do Visual Studio (MSDN), que inclui acesso a assinatura de desenvolvedor do Microsoft 365 E5. Você pode acessar esse benefício em [Visual Studio | Meu benefícios](https://my.visualstudio.com/benefits).
+Funcionários da Microsoft não podem se inscrever para essa oferta. Todos os funcionários de tempo integral da Microsoft têm acesso a uma assinatura gratuita do Visual Studio, que inclui acesso a uma assinatura de desenvolvedor do Microsoft 365 E5. Você pode acessar esse benefício em [Visual Studio | Meu benefícios](https://my.visualstudio.com/benefits).
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>Como fornecedor da Microsoft, sou elegível para uma assinatura?
 
@@ -221,7 +222,7 @@ Se você tiver problemas ao configurar sua assinatura, confira os seguintes recu
 - [Stack Overflow](https://stackoverflow.com/questions)   
 - [Atendimento ao Cliente do Visual Studio](https://www.visualstudio.com/subscriptions/support/)
 
-## <a name="see-also"></a>Também consulte
+## <a name="see-also"></a>Confira também
 
 - [Participe do Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program.md)
 - [Configurar uma assinatura de desenvolvedor do Microsoft 365](microsoft-365-developer-program-get-started.md)

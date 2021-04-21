@@ -1,29 +1,27 @@
 ---
-title: Configurar uma assinatura de desenvolvedor do Microsoft 365
+title: Configurar uma assinatura de área restrita de desenvolvedor do Microsoft 365
 description: Configure uma assinatura de desenvolvedor do Microsoft 365 para criar soluções independentemente de seu ambiente de produção.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 4aa500e0688c43186d574e94e3f94081a87b89e4
-ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
+ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
+ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42601277"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51890179"
 ---
-# <a name="set-up-a-microsoft-365-developer-subscription"></a>Configurar uma assinatura de desenvolvedor do Microsoft 365 
+# <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar uma assinatura de área restrita de desenvolvedor do Microsoft 365 
 
 Configure uma assinatura de desenvolvedor do Office 365 para criar soluções independentemente do ambiente de produção. A assinatura do Office 365 Enterprise E5 Developer vem com 25 licenças de usuário. Ela dura 90 dias e é gratuita para uso apenas com fins de desenvolvimento (soluções de codificação). 
 
-Os clientes que participaram do programa antes de 25 de agosto de 2019 possuem uma assinatura do Office 365 E3 Developer.
-
 > [!NOTE] 
-> Para configurar uma assinatura, primeiro é necessário [Ingressar no Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program.md). Depois de ingressar, você verá a opção de configurar uma assinatura.
+> Para configurar uma assinatura, você deve primeiro [ingressar no Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program.md) diretamente ou por meio do Visual Studio Professional ou Enterprise (se você for um assinante). Depois de ingressar, você verá a opção de configurar uma assinatura.
 
-## <a name="set-up-your-subscription"></a>Configurar a assinatura
+## <a name="set-up-your-microsoft-365-e5-sandbox-subscription"></a>Configurar sua assinatura do Microsoft 365 E5 em área privada
 
 1. Para obter uma assinatura de desenvolvedor do Microsoft 365, em sua página de perfil, escolha **Configurar assinatura**.
 
-2. Na caixa de diálogo**Configura sua assinatura de desenvolvedor**, crie um nome de usuário e domínio. Essa conta deve ter permissões de Administrador Global e para a assinatura. Você pode escolher qualquer nome de usuário ou nome de domínio, desde que ainda não estejam em uso. Não use espaços.
+2. Na caixa de diálogo **Configura sua assinatura de desenvolvedor**, crie um nome de usuário e domínio. Essa conta deve ter permissões de Administrador Global e para a assinatura. Você pode escolher qualquer nome de usuário ou nome de domínio, desde que ainda não estejam em uso. Não use espaços.
 
   ![Configurar um formulário de assinatura](images/5-set-up-form.png)
 
