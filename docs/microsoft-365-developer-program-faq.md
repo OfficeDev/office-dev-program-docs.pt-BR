@@ -3,12 +3,12 @@ title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 3
 description: Perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 61e75fbf308e2cf92ea1ed3c135874a3357cf147
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: cbc15fbfaf5873a21eda6d100b590121fe2328cb
+ms.sourcegitcommit: c70eb4a7cab5b403e602d7ddf8abf3cff5054346
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890186"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52331321"
 ---
 # <a name="microsoft-365-developer-program-faq"></a>Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
 
@@ -148,7 +148,7 @@ Se quiser ter uma assinatura disponível por um período mais longo, recomendamo
 
 ## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>Como determinar se uma assinatura pode ser renovada?
 
-Usamos um conjunto de algoritmos e telemetria que recebemos de suas atividades no Programa para Desenvolvedores do Microsoft 365 e em sua assinatura de desenvolvedor do Office 365 E3 ou Microsoft 365 E5 para determinar se você está desenvolvendo ativamente. Podemos verificá-los regularmente para atualizar o seu status e determinar se a sua assinatura deve ser estendida. 
+Usamos um conjunto de algoritmos e telemetria que recebemos de sua atividades no Programa para Desenvolvedores do Microsoft 365 e em sua assinatura de desenvolvedor do Office 365 E3 ou do Microsoft 365 E5 para determinar se você está desenvolvendo ativamente. Verificamos esses algoritmos regularmente para atualizar seu status e determinar se sua assinatura deve ser estendida. 
 
 Se você acha que, de alguma forma, não rastreamos sua atividade de desenvolvimento com precisão, informe-nos pelo seu painel. Para enviar um formulário que nos informa como você está usando sua assinatura para desenvolvimento, no aviso do painel, escolha o link **Fale conosco**, conforme mostrado na imagem a seguir. Nós vamos revisar a sua solicitação e informá-lo se você estiver qualificado para uma extensão. 
 
@@ -168,9 +168,11 @@ Para saber mais, consulte [Vencimento e renovação da assinatura](subscription-
 
 ## <a name="if-my-subscription-is-going-to-expire-how-much-time-do-i-have-before-it-is-deleted"></a>Se minha assinatura está prestes a expirar, quanto tempo tenho antes que ela seja excluída?
 
-Após sua assinatura expirar, você terá 30 dias para migrar quaisquer dados. Pelos próximos 30 dias, somente o administrador terá acesso à assinatura e, no 60º dia, a assinatura e todos os dados serão excluídos.
+Você terá 30 dias após a assinatura expirar para migrar todos os dados. Nos 30 dias seguintes, somente o administrador terá acesso à assinatura, e no 60° dia, a assinatura e todos os dados serão excluídos.
 
-<a name="account-types"> </a>
+## <a name="why-should-i-link-my-github-account"></a>Por que devo vincular minha conta do GitHub?
+
+Ao ingressar no Programa para Desenvolvedores do Microsoft 365, na página [Configurações](https://developer.microsoft.com/microsoft-365/profile/settings/preferences), vincule sua conta do GitHub à conta do programa para desenvolvedores. Ao vincular a conta do GitHub, você irá se beneficiar com a renovação de sua assinatura da área restrita para desenvolvedores do Microsoft 365. Você também pode optar por desvincular sua conta na seção [Contas vinculadas](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) da página **Minhas configurações**.
 
 ## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Como migrar de uma assinatura do Office 365 E3 para uma assinatura do Microsoft 365 e5?
 
