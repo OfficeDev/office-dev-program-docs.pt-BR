@@ -3,12 +3,12 @@ title: Configurar uma assinatura de área restrita de desenvolvedor do Microsoft
 description: Configure uma assinatura de desenvolvedor do Microsoft 365 para criar soluções independentemente de seu ambiente de produção.
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 49bfba3133351dfc67b6686250fb9152fc8d9688
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: c35814955abb2158a076d6ca566c3bf76fc5289f
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890179"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206913"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar uma assinatura de área restrita de desenvolvedor do Microsoft 365 
 
@@ -72,7 +72,7 @@ Configure uma assinatura de desenvolvedor do Office 365 para criar soluções in
 
 Levará alguns minutos para que os serviços de back-end, como o SharePoint e o Exchange, sejam fornecidos para a assinatura. Durante esta etapa, alguns dos ícones no inicializador de aplicativos e na página inicial são exibidos como **Configurando (este aplicativo está ainda estão sendo configurado)**. Isso levará não mais de uma hora.
 
-Quando o provisionamento for concluído, você poderá usar a nova assinatura do Microsoft 365 para desenvolvimento. A assinatura expira após 90 dias. Para extendê-la, consulte [Quando minha assinatura estiver prestes a expirar, posso estendê-la?](microsoft-365-developer-program-faq.md#renew-subscription).
+Quando o provisionamento for concluído, você poderá usar a nova assinatura do Microsoft 365 para desenvolvimento. A assinatura expira após 90 dias. Para extendê-la, consulte [Quando minha assinatura estiver prestes a expirar, posso estendê-la?](microsoft-365-developer-program-faq.yml#renew-subscription).
 
 Também recomendamos que você habilite as opções de versão para garantir que você acesse os recursos mais recentes do Microsoft 365 assim que possível. Para mais informações, confira [Configurar as opções de versão Padrão ou Direcionada](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47).
 
@@ -89,4 +89,4 @@ Você pode instalar pacotes de dados de exemplo na sua assinatura do Programa pa
 - [Participe do Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program.md)
 - [Usar sua assinatura para criar soluções do Microsoft 365](build-microsoft-365-solutions.md)
 - [Renovar uma assinatura expirada](subscription-expiration-and-renewal.md)
-- [Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program-faq.md)
+- [Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program-faq.yml)

@@ -2,12 +2,12 @@
 title: Bem-vindo ao Programa para Desenvolvedores do Microsoft 365
 description: Ingresse no Programa para Desenvolvedores do Microsoft 365 para desenvolver soluções do Microsoft 365 independentemente de seu ambiente de produção.
 localization_priority: Priority
-ms.openlocfilehash: 31414ea3b88e711f81ba8a5d879e6e666ecbaa3b
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890155"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206899"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Bem-vindo ao Programa para Desenvolvedores do Microsoft 365
 
@@ -53,6 +53,6 @@ Você tem uma assinatura do Visual Studio Pro ou Enteprise? Se tiver, você pode
 - [Configurar uma assinatura de desenvolvedor do Microsoft 365](microsoft-365-developer-program-get-started.md). 
 - Depois de concluir sua assinatura de desenvolvedor, [use sua assinatura](build-microsoft-365-solutions.md) para criar os tipos de solução que você deseja.
 - Para obter informações sobre assinaturas prestes a expirar, consulte [Vencimento e renovação da assinatura](subscription-expiration-and-renewal.md).
-- Para perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365, confira [Perguntas Frequentes](microsoft-365-developer-program-faq.md).
+- Para perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365, confira [Perguntas Frequentes](microsoft-365-developer-program-faq.yml).
 
 
