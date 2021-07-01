@@ -2,12 +2,12 @@
 title: Usar sua assinatura de desenvolvedor para criar soluções do Microsoft 365
 description: Usae sua assinatura de desenvolvedor do Microsoft 365 para criar as soluções que você deseja.
 localization_priority: Priority
-ms.openlocfilehash: 2b2e68eb2e9ce474cf6e936c72aedd441e873ff3
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.openlocfilehash: 454bf488dc0cb63ca0d58ba2ddbb5249204f0ea7
+ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890134"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206892"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Usar sua assinatura de desenvolvedor para criar soluções do Microsoft 365
 
@@ -55,10 +55,9 @@ Para configurar seu ambiente de desenvolvimento e criar seu primeiro suplemento,
 
 ## <a name="sharepoint-framework"></a>Estrutura do SharePoint
 
-A Estrutura do SharePoint (SPFx) é um modelo de Web Part e página que dá suporte completo para o desenvolvimento do SharePoint do lado do cliente, facilitando a integração com dados do SharePoint e dando suporte para ferramentas de software livre. Com a Estrutura do SharePoint, você pode usar ferramentas e tecnologias modernas da Web em seu ambiente de desenvolvimento preferido para criar aplicativos e experiências produtivas que são ágeis e estão prontos para a mobilidade desde o início.
+A Estrutura do SharePoint (SPFx) é um modelo de página e de Web Part que fornece suporte completo ao desenvolvimento do SharePoint do lado do cliente, de fácil integração com dados do SharePoint e suporte para ferramentas de software livre. Com a Estrutura do SharePoint, você pode usar tecnologias e ferramentas modernas da Web no seu ambiente de desenvolvimento preferido para criar experiências e aplicativos produtivos que respondem e estão prontos para dispositivos móveis.
 
-Para configurar automaticamente sua área restrita para experimentar cenários e modelos diferentes do SharePoint, instale o pacote de dados de exemplo do SharePoint.
-Para saber mais, consulte:
+Para configurar automaticamente sua área restrita para experimentar diferentes modelos e cenários do SharePoint, instale o pacote de dados de exemplo do SharePoint. Para mais detalhes, consulte:
 
 - [Instalar pacotes de dados de exemplo](install-sample-packs.md)
 - [Configurar sua assinatura de desenvolvedor para o SPFx](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -87,7 +86,7 @@ Power Apps também fornece uma plataforma extensível que permite que desenvolve
 
 Para obter mais informações:
 
-- [Power Apps](https://docs.microsoft.com/pt-BR/powerapps/)
+- [Power Apps](/powerapps/)
 - Assista [Demonstrações dos Power Apps](https://powerapps.microsoft.com/demo/)
 - Assista aos vídeos no [canal do Power Apps](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg) no YouTube
 
@@ -97,4 +96,4 @@ Para obter mais informações:
 - [Participe do Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program.md)
 - [Configurar uma assinatura de desenvolvedor do Microsoft 365](microsoft-365-developer-program-get-started.md) 
 - [Renovar uma assinatura expirada](subscription-expiration-and-renewal.md)
-- [Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program-faq.md)
+- [Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program-faq.yml)
