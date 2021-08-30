@@ -4,12 +4,12 @@ metadata:
   description: Perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
   ms.date: 04/01/2019
   localization_priority: Priority
-  ms.openlocfilehash: 64c0459ebee710b3d6d9acb9cf6baf9cb4b077a3
-  ms.sourcegitcommit: 24feefce06cf63bbb5408c816f7d06994b73f5d3
+  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
+  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 08/20/2021
-  ms.locfileid: "58408458"
+  ms.lasthandoff: 08/27/2021
+  ms.locfileid: "58683132"
 title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
 summary: Veja a seguir as perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
 sections:
@@ -101,13 +101,12 @@ sections:
     answer: >
       Sim, você pode seguir [estas instruções](microsoft-365-developer-program.md) para ingressar no Programa para Desenvolvedores do Microsoft 365 e configurar uma assinatura de desenvolvedor do Microsoft 365. Mesmo para fornecedores, a assinatura foi projetada para ser usada _apenas para o desenvolvimento de aplicativos_. Se você não estiver realizando atividades válidas de desenvolvimento, sua assinatura não será renovada.
   - question: >
-      O Programa para Desenvolvedores do Microsoft 365 está disponível em meu idioma?
-    answer: >
-      Além de em inglês, o Programa para Desenvolvedores do Microsoft 365 está disponível nos seguintes idiomas: Chinês (Simplificado), francês, alemão, japonês, português (Brasil), russo e espanhol.
-  - question: >
       A assinatura de desenvolvedor do Microsoft 365 está disponível em meu idioma?
     answer: >
       A assinatura de desenvolvedor do Microsoft 365 é oferecida somente em inglês.
+
+
+      O site do Programa de Desenvolvedores está disponível nos seguintes idiomas: chinês (simplificado), francês, alemão, japonês, português (Brasil), russo e espanhol.
   - question: >
       Como saio do Programa para Desenvolvedores do Microsoft 365?
     answer: >
