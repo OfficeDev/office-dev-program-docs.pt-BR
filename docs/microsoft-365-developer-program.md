@@ -1,13 +1,13 @@
 ---
 title: Bem-vindo ao Programa para Desenvolvedores do Microsoft 365
 description: Ingresse no Programa para Desenvolvedores do Microsoft 365 para desenvolver soluções do Microsoft 365 independentemente de seu ambiente de produção.
-localization_priority: Priority
-ms.openlocfilehash: 1beb4ce8946ac64d574328c8fc1c771a0700cd4d
-ms.sourcegitcommit: 97bf9ba32eaa1df134d563b99b5fa873600b7921
+ms.localizationpriority: high
+ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206899"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396690"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Bem-vindo ao Programa para Desenvolvedores do Microsoft 365
 
@@ -17,7 +17,7 @@ Você tem uma assinatura do Visual Studio Pro ou Enteprise? Se tiver, você pode
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Participe do Programa para Desenvolvedores do Microsoft 365
 
-1. Vá para [Participar do Programa para Desenvolvedores do Microsoft 365](https://developer.microsoft.com/pt-BR/microsoft-365/dev-program). 
+1. Vá para [Participar do Programa para Desenvolvedores do Microsoft 365](https://developer.microsoft.com/en-us/microsoft-365/dev-program). 
 
 2. No canto superior direito, escolha **Entrar** para entrar com sua conta da Microsoft ou email habilitado para o Azure Active Directory.
 

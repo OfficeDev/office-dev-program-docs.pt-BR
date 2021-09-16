@@ -3,13 +3,13 @@ metadata:
   title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
   description: Perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
   ms.date: 04/01/2019
-  localization_priority: Priority
-  ms.openlocfilehash: 4c0eb41ec477df73e8760118225b1544a77e70de
-  ms.sourcegitcommit: 1bd3cd014653f16b15c019bfbc0eceb01a273512
+  ms.localizationpriority: high
+  ms.openlocfilehash: ca503a50bd32678583899ecf23aa8b15c4735322
+  ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 08/27/2021
-  ms.locfileid: "58683132"
+  ms.lasthandoff: 09/16/2021
+  ms.locfileid: "59396697"
 title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
 summary: Veja a seguir as perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
 sections:
@@ -90,6 +90,10 @@ sections:
   - question: >
       Posso escolher entre ter uma assinatura do Office 365 E3 ou do Microsoft 365 E5?
     answer: "Atualmente, os novos membros do Programa de Desenvolvedor são oferecidos apenas Microsoft 365 E5 assinatura. Membros existentes com uma assinatura Office 365 E3 terão a opção de manter sua assinatura atual e continuar a renová-la se não precisarem dos novos recursos oferecidos no Microsoft 365 E5 ou fazer uma atualização única para uma assinatura Microsoft 365 E5. Os membros do Programa de Desenvolvedor só podem ter uma assinatura.  \n"
+  - question: >
+      A assinatura Microsoft 365 desenvolvedor está sujeita ao Limite de Dados da UE para o Microsoft Cloud (EUDB)?
+    answer: >
+      Não. A assinatura Microsoft 365 desenvolvedor gratuita está sujeita apenas aos Termos [e condições](terms-and-conditions.md) e não aos compromissos do EUDB. No entanto, como parte do processo de provisionamento, você tem a opção de escolher o país/região para sua assinatura.
   - question: "Como um Microsoft Partner, posso receber uma assinatura? \n"
     answer: "Sim, você pode seguir [estas instruções](microsoft-365-developer-program.md) para ingressar no Programa para Desenvolvedores do Microsoft 365 e configurar uma assinatura de desenvolvedor do Microsoft 365. No entanto, se você já tiver uma assinatura do Visual Studio Enterprise ou Visual Studio Professional, você pode obter uma assinatura de desenvolvedor do Microsoft 365 como benefício. Para acessar, vá para [Visual Studio | Meu Benefícios](https://my.visualstudio.com/benefits). Para saber mais, contate o [Atendimento ao Cliente do Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
