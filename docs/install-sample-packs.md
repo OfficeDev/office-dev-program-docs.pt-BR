@@ -1,13 +1,13 @@
 ---
 title: Use pacotes de dados de exemplo com sua assinatura do Programa para Desenvolvedores do Microsoft 365
 description: Saiba como instalar pacotes de dados de exemplo na sua assinatura de desenvolvedor para ajudar a colocar seu ambiente de área restrita em funcionamento rapidamente.
-localization_priority: Priority
-ms.openlocfilehash: 3802c1c1e02c7be9ccb322561189ee0d085e8ce0
-ms.sourcegitcommit: 3d50606496bd0bdbbcf892d2d18de6343a44c576
+ms.localizationpriority: high
+ms.openlocfilehash: fb111d13a940fc5dffbba12b092a8f2bfd313872
+ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51890142"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "59396718"
 ---
 # <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Use pacotes de dados de exemplo com sua assinatura do Programa para Desenvolvedores do Microsoft 365
 
@@ -57,7 +57,7 @@ Para instalar o pacote de dados de exemplo de Usuários:
 
 ![Captura de tela mostrando a caixa de diálogo de permissões e consentimento. ](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
-5. Configure suas senhas para todos os usuários de exemplo. Será preciso ter uma senha compartilhada definida para facilitar a administração de todos os seus usuários fictícios.
+5. Configurar suas senhas para todos os usuários de amostra. Você precisará ter uma senha compartilhada definida para facilitar a administração de todos os seus usuários fictícios.
 
 ![Captura de tela da caixa de diálogo para adicionar senha de usuário compartilhado](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
@@ -197,7 +197,7 @@ Sim. No futuro, consideraremos adicionar pacotes de dados de exemplo para mais p
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>Posso instalar pacotes de dados de exemplo em minhas outras assinaturas do Microsoft 365?
 
-Não. Esses pacotes de dados de exemplo são compatíveis apenas com a assinatura de desenvolvedor do Microsoft 365, que você obtém como parte do Programa de Desenvolvedores do Microsoft 365.
+Não. Estes exemplos de pacotes de dados só são compatíveis com a assinatura do desenvolvedor Microsoft 365 que você recebe como parte do Programa para Desenvolvedores do Microsoft 365.
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>Como posso ver os dados de exemplo na minha assinatura?
 
