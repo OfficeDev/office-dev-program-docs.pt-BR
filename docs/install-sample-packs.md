@@ -2,12 +2,12 @@
 title: Use pacotes de dados de exemplo com sua assinatura do Programa para Desenvolvedores do Microsoft 365
 description: Saiba como instalar pacotes de dados de exemplo na sua assinatura de desenvolvedor para ajudar a colocar seu ambiente de área restrita em funcionamento rapidamente.
 ms.localizationpriority: high
-ms.openlocfilehash: 85bdbc5cbcb6daaf40beeef7e0138909361d6cd1
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60725031"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793530"
 ---
 # <a name="developer-sandbox-sample-data"></a>Dados de exemplo da área restrita do desenvolvedor
 
@@ -70,19 +70,19 @@ Para instalar o pacote de dados de exemplo de Usuários:
 3. Insira sua ID e senha de administrador na página de entrada.
 4. Conceda permissões como administrador da sua assinatura de desenvolvedor do Microsoft 365.
 
-![Captura de tela mostrando a caixa de diálogo de permissões e consentimento. ](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
+  ![Captura de tela mostrando a caixa de diálogo de permissões e consentimento. ](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. Configurar suas senhas para todos os usuários de amostra. Você precisará ter uma senha compartilhada definida para facilitar a administração de todos os seus usuários fictícios.
 
-![Captura de tela da caixa de diálogo para adicionar senha de usuário compartilhado](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
+  ![Captura de tela da caixa de diálogo para adicionar senha de usuário compartilhado](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. Os dados serão instalados. A instalação levará cerca de 5 min.
 
-![Captura de tela mostrando o processo de instalação no bloco do painel](images/sample-data-pack-ux-tile-users-installing-status.PNG)
+  ![Captura de tela mostrando o processo de instalação no bloco do painel](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. Quando a instalação for concluída, você receberá uma notificação por email e a caixa em seu bloco de assinatura ficará verde. Agora, você pode instalar o pacote de dados de exemplo de Email e Eventos.
 
-![Captura de tela do bloco do painel com Email e Eventos prontos para instalação](images/sample-data-pack-ux-tile-users-installed.PNG)
+  ![Captura de tela do bloco do painel com Email e Eventos prontos para instalação](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ### <a name="install-the-mail--events-sample-data-pack"></a>Instalar o pacote de dados de exemplo Email e Eventos
 
@@ -91,10 +91,10 @@ Depois de instalar o pacote de dados de exemplo Usuários, você pode instalar o
 1. Escolha a caixa **Email &amp; Eventos** no bloco da sua assinatura.
 2. Clique em **Instalar** para iniciar a instalação.
 
-![Captura de tela da caixa de diálogo de instalação](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
+  ![Captura de tela da caixa de diálogo de instalação](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
-> [!NOTE]
-> Se você acabou de criar sua assinatura, ela deve ser totalmente provisionada antes do início da instalação. Isso pode levar algumas horas. Após iniciada, a instalação pode levar até 20 minutos para ser concluída.
+  > [!NOTE]
+  > Se você acabou de criar sua assinatura, ela deve ser totalmente provisionada antes do início da instalação. Isso pode levar algumas horas. Após iniciada, a instalação pode levar até 20 minutos para ser concluída.
 
 3. Quando a instalação for concluída, você receberá uma notificação por email e a caixa em seu bloco de assinatura ficará verde.
 

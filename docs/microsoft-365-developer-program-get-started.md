@@ -3,12 +3,12 @@ title: Configurar uma assinatura de área restrita de desenvolvedor do Microsoft
 description: Configure uma assinatura de desenvolvedor do Microsoft 365 para criar soluções independentemente de seu ambiente de produção.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 8671c4df2866ebe6adeef8ade428472ec850cd47
-ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
+ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60724838"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793523"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar uma assinatura de área restrita de desenvolvedor do Microsoft 365 
 
@@ -25,6 +25,8 @@ Se você escolher uma área restrita instantânea, poderá reduzir o tempo de co
 
 Além disso, você obtém dados de exemplo pré-instalados, incluindo o novo pacote de dados de exemplo do Teams, bem como dados de usuário, email e calendário do Microsoft Graph e dados de exemplo da Estrutura do SharePoint, que simulam um pequeno ambiente corporativo para ajudá-lo a criar soluções na plataforma Microsoft 365. Para obter detalhes, confira Dados de exemplo da área restrita do desenvolvedor.
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWOmCY]
+
 Você não poderá personalizar seu nome de domínio se escolher essa opção.
 
 ## <a name="configurable-sandbox"></a>Área restrita configurável
@@ -39,14 +41,14 @@ Para obter uma assinatura de desenvolvedor do Microsoft 365:
 
 2. Na caixa de diálogo **Configurar sua assinatura de desenvolvedor do Microsoft 365 E5**, escolha se deseja uma área restrita instantânea ou uma área restrita configurável e escolha **Avançar**.
 
-  ![Captura de tela da caixa de diálogo Configurar sua assinatura de desenvolvedor do Microsoft 365 E5](images/set-up-your-subscription.png)
+    ![Captura de tela da caixa de diálogo Configurar sua assinatura de desenvolvedor do Microsoft 365 E5](images/set-up-your-subscription.png)
 
 Se você selecionou uma área restrita instantânea:
 
 1.  Escolha o **País/região de seu data center** e forneça um **Nome de usuário** e uma **Senha do administrador** e, opcionalmente, uma senha alternativa para seus usuários fictícios e, em seguida, escolha **Continuar**.
 
-  > [!IMPORTANT] 
-  > Anote o nome de usuário e a senha porque você precisará deles para acessar a sua assinatura de desenvolvedor.
+    > [!IMPORTANT] 
+    > Anote o nome de usuário e a senha porque você precisará deles para acessar a sua assinatura de desenvolvedor.
 
 2.  Forneça um número de telefone celular válido e escolha **Enviar código**. Insira o código recebido e escolha **Configurar**.
 3.  Depois que a assinatura for criada, o nome de domínio da assinatura e a data de validade aparecerão na página de perfil.
@@ -55,8 +57,8 @@ Se você selecionou uma área restrita configurável:
 
 1.  Escolha seu **País/região** e forneça um nome de usuário no campo **Criar nome de usuário** e um nome de domínio no campo **Criar domínio**. Crie e confirme sua senha e escolha **Continuar**.
 
-  > [!IMPORTANT] 
-  > Anote o nome de usuário e a senha porque você precisará deles para acessar a sua assinatura de desenvolvedor.
+    > [!IMPORTANT] 
+    > Anote o nome de usuário e a senha porque você precisará deles para acessar a sua assinatura de desenvolvedor.
 
 2.  Forneça um número de telefone celular válido e escolha **Enviar código**. Insira o código recebido e escolha **Configurar**.
 3.  Depois que a assinatura for criada, o nome de domínio da assinatura e a data de validade aparecerão na página de perfil.
@@ -79,8 +81,8 @@ Se você selecionou uma área restrita configurável:
 
 6. **Adicione novos usuários**. Você pode adicionar usuários fictícios ou reais para ajudá-lo no desenvolvimento. Quando estiver pronto, escolha **Adicionar usuários e atribuir licenças**.
     
-  > [!NOTE]
-  > Se você tiver uma assinatura configurável, depois de configurar sua assinatura, poderá instalar o pacote de dados de exemplo de Usuários. O pacote de dados de exemplo de Usuários cria 16 usuários fictícios na sua assinatura e inclui as licenças para cada usuário, e caixas de correio, nomes, metadados e fotos para cada um deles. Para obter detalhes, confira [Dados de exemplo da área restrita do desenvolvedor](install-sample-packs.md).
+    > [!NOTE]
+    > Se você tiver uma assinatura configurável, depois de configurar sua assinatura, poderá instalar o pacote de dados de exemplo de Usuários. O pacote de dados de exemplo de Usuários cria 16 usuários fictícios na sua assinatura e inclui as licenças para cada usuário, e caixas de correio, nomes, metadados e fotos para cada um deles. Para obter detalhes, confira [Dados de exemplo da área restrita do desenvolvedor](install-sample-packs.md).
 
 6. **Atribua licenças a usuários não licenciados**. Para usuários com os quais você deseja trabalhar com a assinatura, conceda a eles uma licença. Quando estiver pronto, escolha **Adicionar usuários e atribuir licenças** ou **Fazer isso mais tarde**.
 
