@@ -2,20 +2,38 @@
 title: Use pacotes de dados de exemplo com sua assinatura do Programa para Desenvolvedores do Microsoft 365
 description: Saiba como instalar pacotes de dados de exemplo na sua assinatura de desenvolvedor para ajudar a colocar seu ambiente de área restrita em funcionamento rapidamente.
 ms.localizationpriority: high
-ms.openlocfilehash: fb111d13a940fc5dffbba12b092a8f2bfd313872
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 85bdbc5cbcb6daaf40beeef7e0138909361d6cd1
+ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396718"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725031"
 ---
-# <a name="use-sample-data-packs-with-your-microsoft-365-developer-program-subscription"></a>Use pacotes de dados de exemplo com sua assinatura do Programa para Desenvolvedores do Microsoft 365
+# <a name="developer-sandbox-sample-data"></a>Dados de exemplo da área restrita do desenvolvedor
 
-Você pode instalar pacotes de dados de exemplo na sua assinatura do Programa para Desenvolvedores do Microsoft 365. Os pacotes de dados de exemplo poupam seu tempo, instalando automaticamente dados e conteúdos necessários para criar e testar suas soluções. Inclui os usuários, os metadados e as fotos fictícias para simular um ambiente corporativo pequeno. Você pode instalar rapidamente os dados de exemplo para se concentrar nas suas soluções, em vez de perder tempo criando esses dados de exemplo.
+A assinatura do Programa para Desenvolvedores da área restrita do Microsoft 365 vem com dados de exemplo para economizar tempo, fornecendo dados e conteúdo necessários para criar e testar suas soluções.
 
-Você pode encontrar pacotes de dados de exemplo no [painel do Programa para Desenvolvedores do Microsoft 365](https://developer.microsoft.com/office/profile), na parte inferior do bloco de assinatura.
+![Captura de tela dos botões do pacote de dados de exemplo](images/sample-data-packs.PNG)
 
-![Captura de tela do bloco da assinatura na página de painel](images/sample-data-pack-ux-tile-users-beginning.PNG)
+Se você tiver uma área restrita instantânea, os pacotes de dados de exemplo já virão pré-instalados. Sua área restrita instantânea inclui os seguintes dados de exemplo:
+
+- **Dados de usuário, correio e calendário do Microsoft Graph** - 16 usuários de exemplo com dados e conteúdo do usuário para ajudá-lo a modelar suas soluções. Isso inclui caixas de correio de usuário, eventos de calendário e integração em um ambiente de desenvolvedor do Teams com conversas simuladas e associações de equipe.
+- Pacote de **Dados de exemplo do Teams** com o seguinte ambiente de desenvolvedor personalizado:
+  - **Sideload do aplicativo** pré-configurado
+  - **Cinco exemplos de equipes, canais, guias e sessões de conversas** criadas em torno dos 16 usuários de exemplo.
+  - **App Studio / Portal do Desenvolvedor do Teams pré-instalado e fixado** para ajudá-lo a agilizar a criação de seu manifesto do aplicativo do Teams e pacote do aplicativo, além do editor de cartão e uma biblioteca de controle do React.
+    
+    ![Captura de tela do Portal do Desenvolvedor do Teams](images/teams-developer-portal.PNG)
+- **Dados de exemplo da Estrutura do SharePoint** – escolha entre seis modelos de site que você pode instalar e avaliar como soluções personalizadas para sua organização (com um pré-instalado).
+
+Se você tiver uma área restrita configurável, poderá instalar rapidamente os dados de exemplo para que possa se concentrar em suas soluções, em vez de perder tempo criando dados de exemplo sozinho.
+
+> [!NOTE] 
+> Você não pode instalar pacotes de dados de exemplo em qualquer outra assinatura do Microsoft 365. Esses pacotes de dados de exemplo são compatíveis apenas com a assinatura da área restrita do desenvolvedor do Microsoft 365 que você obtém como parte do Programa para Desenvolvedores do Microsoft 365.
+
+## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Instale pacotes de dados de exemplo em sua área restrita configurável
+
+Você pode encontrar pacotes de dados de exemplo no [painel do Programa para Desenvolvedores do Microsoft 365](https://developer.microsoft.com/microsoft-365/profile), na parte inferior do bloco de assinatura.
 
 Os pacotes de dados de exemplo a seguir estão atualmente disponíveis:
 
@@ -26,22 +44,19 @@ Os pacotes de dados de exemplo a seguir estão atualmente disponíveis:
   - Preparar organograma  
   - Obter usuários por departamento
 
-- Email e eventos - Adiciona conversas de email do Outlook e eventos de calendário para cada um dos 16 exemplos de usuários. Use as APIs do Microsoft Graph para trabalhar com os dados de exemplo de email e eventos da seguinte maneira:
+- Email e eventos - Adiciona conversas de email do Outlook e eventos de calendário para cada um dos 16 usuários de exemplo. Use as APIs do Microsoft Graph para trabalhar com os dados de exemplo de email e eventos da seguinte maneira:
   - Receba emails por usuários
   - Obter emails filtrados por data
   - Obter eventos futuros
   - Atualizar/excluir eventos futuros
 
-> [!NOTE]
-> Você deve instalar o pacote de dados de exemplo de Usuários antes de instalar o Email e Eventos.
+  > [!NOTE]
+  > Você deve instalar o pacote de dados de exemplo de Usuários antes de instalar o Email e Eventos.
+    
+- Dados de exemplo da Estrutura do SharePoint – Escolha entre seis modelos de site que você pode instalar e avaliar como soluções personalizadas para sua organização (com um pré-instalado).
 
-## <a name="what-do-the-sample-data-packs-add-to-my-subscription"></a>O que os pacotes de dados de exemplo adicionam à minha assinatura?
 
-O pacote de dados de exemplo de Usuários cria 16 usuários fictícios na sua assinatura e inclui as licenças para cada usuário, e caixas de correio, nomes, metadados e fotos para cada um deles.
-
-O pacote de dados de exemplo de Email e Eventos adiciona conversas de email do Outlook e eventos de calendário para cada um dos 16 usuários instalados.
-
-## <a name="how-do-i-install-the-users-sample-data-pack"></a>Como faço para instalar o pacote de dados de exemplo de Usuários?
+### <a name="install-the-users-sample-data-pack"></a>Instalar o pacote de dados de exemplo de usuários
 
 Antes de instalar o pacote de dados de exemplo de Usuários, certifique-se de que você tem uma assinatura de desenvolvedor do Microsoft 365 e que atribuiu uma licença a si mesmo como administrador.
 
@@ -67,9 +82,9 @@ Para instalar o pacote de dados de exemplo de Usuários:
 
 7. Quando a instalação for concluída, você receberá uma notificação por email e a caixa em seu bloco de assinatura ficará verde. Agora, você pode instalar o pacote de dados de exemplo de Email e Eventos.
 
-![Captura de tela do bloco do painel com o Email e Eventos prontos para instalação](images/sample-data-pack-ux-tile-users-installed.PNG)
+![Captura de tela do bloco do painel com Email e Eventos prontos para instalação](images/sample-data-pack-ux-tile-users-installed.PNG)
 
-## <a name="how-do-i-install-the-mail-and-events-sample-data-pack"></a>Como instalar o pacote de dados de exemplo de Email e Eventos?
+### <a name="install-the-mail--events-sample-data-pack"></a>Instalar o pacote de dados de exemplo Email e Eventos
 
 Depois de instalar o pacote de dados de exemplo Usuários, você pode instalar o Email e Eventos.
 
@@ -83,9 +98,9 @@ Depois de instalar o pacote de dados de exemplo Usuários, você pode instalar o
 
 3. Quando a instalação for concluída, você receberá uma notificação por email e a caixa em seu bloco de assinatura ficará verde.
 
-## <a name="how-do-i-install-the-sharepoint-sample-data-pack"></a>Como instalar o pacote de dados de exemplo do SharePoint?
+### <a name="install-the-sharepoint-sample-data-pack"></a>Instalar o pacote de dados de exemplo do SharePoint
 
-O pacote de dados de exemplo do SharePoint inclui sete modelos de site diferentes do SharePoint à sua escolha para experimentar e modelar soluções do SharePoint para colaboração, comunicação, envolvimento e gerenciamento de conhecimento.
+O pacote de dados de exemplo do SharePoint inclui seis modelos de site do SharePoint diferentes para escolher e experimentar e modelar soluções do SharePoint para colaboração, comunicação, envolvimento e gerenciamento de conhecimento.
 
 Estes são alguns dos modelos mais populares do [livro de aparência do PnP do SharePoint](https://provisioning.sharepointpnp.com/). Hoje em dia, é simples criar exemplos de soluções de sites e páginas bonitos e rápidos que ficam ótimos em qualquer dispositivo ou tela. Inspire-se com esses designs ou adicione-os ao seu locatário da área restrita para começar a criar seu próximo site.
 
@@ -93,7 +108,7 @@ Os modelos podem ser instalados em sua assinatura. Depois de instalar um modelo,
 
 1. Selecione o modelo que você deseja no menu suspenso.
 
-  ![Captura de tela da tela de seleção de modelo do SharePoint](images/select-sharepoint-template.jpg)
+  ![Captura de tela da tela de seleção de modelo do SharePoint](images/sharepoint-sample-data.png)
 
 2. Configure opções personalizadas para seus sites ou aceite os valores padrão.
 3. Use a ID de administrador do seu locatário da área restrita e a senha para autenticar e dar permissões para a instalação. 
@@ -102,11 +117,11 @@ A instalação procederá automaticamente.
 
 >**Observação:** O provisionamento desses modelos de site funciona apenas com as assinaturas de desenvolvedor em inglês do Office 365 E3 ou do Microsoft 365 E5, e todo o conteúdo incluído é apenas em inglês.
 
-## <a name="what-sharepoint-templates-are-available"></a>Quais modelos do SharePoint estão disponíveis?
+#### <a name="what-sharepoint-templates-are-available"></a>Quais modelos do SharePoint estão disponíveis?
 
 O pacote de exemplo do SharePoint inclui sete modelos diferentes.
 
-### <a name="team-site-with-data"></a>Site de equipe com dados
+#### <a name="team-site-with-data"></a>Site de equipe com dados
 
 Este modelo inclui várias listas e bibliotecas de documentos que são automaticamente associadas a um site de equipe do SharePoint para ajudá-lo a desenvolver soluções usando a Estrutura do SharePoint, o PowerApps e o Microsoft Graph.
 
@@ -119,7 +134,7 @@ Este modelo inclui os seguintes dados:
 
 Este modelo se integra com Dados de exemplo do usuário.
 
-### <a name="work--contoso"></a>Trabalho @ Contoso
+#### <a name="work--contoso"></a>Trabalho @ Contoso
 O modelo Trabalho @ Contoso consiste em vários conjuntos de sites, todos automaticamente associados ao site do hub, para mostrar como funciona todos os recursos de agregação padrão.
 
 O modelo contém as estruturas e ativos a seguir:
@@ -135,7 +150,7 @@ Os conjuntos de subsites usam os mesmos modelos, que também podem ser provision
 
 >**Observação:** Se o modelo for aplicado na parte superior de um site de comunicação existente, o conteúdo da página de boas-vindas será substituído.
 
-### <a name="leadership-connection-leadership-news-events-engagement"></a>Conexão de Liderança: notícias sobre liderança, eventos e envolvimento
+#### <a name="leadership-connection-leadership-news-events-engagement"></a>Conexão de Liderança: notícias sobre liderança, eventos e envolvimento
 
 Este site de liderança fornece informações sobre os objetivos e prioridades da equipe de liderança e inspira o envolvimento com eventos e conversas.
 
@@ -146,7 +161,7 @@ Adicionar esse design ao seu locatário criará o seguinte conteúdo:
 
 Este modelo se integra com Dados de exemplo do usuário.
 
-### <a name="the-landing-news-resources-personalized-content"></a>A Página Principal: notícias, recursos e conteúdo personalizado
+#### <a name="the-landing-news-resources-personalized-content"></a>A Página Principal: notícias, recursos e conteúdo personalizado
 
 Esse site de comunicação foi projetado para ser o local em que seus funcionários podem encontrar as notícias e os recursos de que precisam, além de conteúdo personalizado sob medida para eles.
 
@@ -157,7 +172,7 @@ Adicionar esse design ao seu locatário criará o seguinte conteúdo:
 - Seis exemplos adicionais de páginas e notícias modernas
 - Exemplo de imagens e documentos do Office
 
-### <a name="the-perspective-news-video-personalized-content"></a>A Perspectiva: notícias, vídeo e conteúdo personalizado
+#### <a name="the-perspective-news-video-personalized-content"></a>A Perspectiva: notícias, vídeo e conteúdo personalizado
 
 Projetado para oferecer novidades e conteúdo personalizado, este site também inclui vídeos para inspirar ainda mais envolvimento.
 Adicionar esse design ao seu locatário criará o seguinte conteúdo:
@@ -166,21 +181,7 @@ Adicionar esse design ao seu locatário criará o seguinte conteúdo:
 - Exemplo de modelo de página para artigos de notícias
 - Doze exemplos de notícias
 
-### <a name="new-employee-onboarding-hub-connect-engage-inform"></a>Novo Hub de Integração de Funcionários: Conectar, Interagir, Informar
-
-Simplifique e refine seu novo processo de integração de funcionários com modelos pré-desenvolvidos que abordam a Pré-integração, a integração ao Nível empresarial e os cenários de integração ao Nível departamental. Esta solução digital oferece quatro modelos de site diferentes que contêm conteúdo previamente preenchido que pode ser personalizado para se alinhar com os objetivos da sua organização.
-
-Adicionar esse design ao seu locatário criará o seguinte conteúdo:
-
-- Site de pré-lançamento, site de integração corporativo e dois sites de integração departamentais
-- Páginas iniciais personalizadas e preenchidas previamente para cada site
-- Site de Hub configurado para integração corporativa e sites associados para integração departamental
-- Nova lista de verificação de funcionários criada nas Listas do Microsoft Office SharePoint Online para ajudar os novos contratados a se integrarem com êxito
-- Conteúdo de exemplo para a Web Part de pessoas, Web Part do Yammer, Web Part de notícias e Web Part de links rápidos
-- Perguntas frequentes pré-escritas para cada site
-- Recomendações para criar experiências sociais e envolventes, como incluir um vídeo de boas-vindas usando a Web Part do YouTube no site de Pré-integração
-
-### <a name="crisis-communications-announcements-news-resources-communities-and-calls-to-action"></a>Comunicações de Crise: comunicados, notícias, recursos, comunidades e chamadas de ação
+#### <a name="crisis-communications-announcements-news-resources-communities-and-calls-to-action"></a>Comunicações de Crise: comunicados, notícias, recursos, comunidades e chamadas de ação
 
 Mantenha as pessoas informadas, envolvidas e progredindo durante crises: de eventos climáticos extremos a emergências de segurança e saúde. Este modelo cria um recurso central para líderes e comunicadores compartilharem notícias e comunicados importantes. Uma única fonte de verdade na qual as pessoas podem se manter atualizadas e um lugar para conectar pessoas em toda a organização.
 
@@ -191,22 +192,22 @@ Adicionar esse design ao seu locatário criará o seguinte conteúdo:
 
 Este modelo se integra com Dados de exemplo do usuário.
 
-## <a name="are-more-sample-data-packs-coming"></a>Mais pacotes de dados de exemplo estão chegando?
-
-Sim. No futuro, consideraremos adicionar pacotes de dados de exemplo para mais produtos e tecnologias, incluindo o Microsoft Teams. Se você tiver sugestões para amostras de pacotes de dados que gostaria de ver, [nos avise](https://officespdev.uservoice.com/forums/224641-feature-requests-and-feedback?category_id=171306).
-
 ## <a name="can-i-install-sample-data-packs-on-my-other-microsoft-365-subscriptions"></a>Posso instalar pacotes de dados de exemplo em minhas outras assinaturas do Microsoft 365?
 
 Não. Estes exemplos de pacotes de dados só são compatíveis com a assinatura do desenvolvedor Microsoft 365 que você recebe como parte do Programa para Desenvolvedores do Microsoft 365.
 
 ## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>Como posso ver os dados de exemplo na minha assinatura?
 
-Depois de instalar o pacote de dados de exemplo de Usuários, para ver os usuários que foram adicionados, acesse o [**Centro de Administração do Microsoft 365**](https://admin.microsoft.com/) na assinatura de desenvolvedor de Microsoft 365. Em **Usuários**, selecione **Usuários ativos**. Você verá a lista de 16 usuários. Você pode selecionar um usuário para exibir os metadados associados, incluindo as fotos e as licenças.
+Para ver os dados de exemplo de usuários, vá para o [**Centro de Administração do Microsoft 365**](https://admin.microsoft.com/) em sua assinatura de desenvolvedor do Microsoft 365. Em **Usuários**, selecione **Usuários ativos**. Você verá a lista de 16 usuários. Você pode selecionar um usuário para exibir os metadados associados, incluindo as fotos e as licenças.
 
 ![Captura de tela de 16 usuários no Centro de administração do Microsoft 365, com metadados de um usuário selecionado](images/content-packs-07.PNG)
 
-Depois de instalar o pacote de exemplo de E-mail e Eventos, para visualizar os dados de exemplo, no [**Centro de Administração do Microsoft 365**](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide), escolha **Mostrar tudo** e, em seguida, selecione **Exchange**. No Centro de administração do Exchange, ao selecionar **destinatários**, você pode ver que todos os 16 usuários têm caixas de correio com email e eventos adicionados.
+Para ver os dados de exemplo de Email e Eventos, no [**Centro de Administração do Microsoft 365**](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide), escolha **Mostrar tudo** e, em seguida, selecione **Exchange**. No Centro de administração do Exchange, ao selecionar **destinatários**, você pode ver que todos os 16 usuários têm caixas de correio com email e eventos adicionados.
 ![Captura de tela de 16 usuários adicionados ao Centro de administração do Exchange](images/content-packs-08.PNG)
+
+Para ver os dados de exemplo do Microsoft Teams, vá para **Teams** em sua assinatura do Microsoft 365 E5. Na guia Teams, você verá algumas equipes pré-criadas com conversas de usuários de exemplo na **Equipe do Projeto Mark 8**. O aplicativo App Studio/Portal de Desenvolvedor é pré-instalado e fixado no painel de navegação.
+
+Para ver os dados de exemplo do SharePoint, vá para o Centro de administração do SharePoint e escolha **Sites ativos** na navegação à esquerda. Você verá os sites de exemplo que estão pré-instalados e todos os modelos de site adicionais que você instalou na sua área restrita.
 
 ## <a name="see-also"></a>Também consulte
 
