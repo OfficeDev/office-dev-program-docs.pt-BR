@@ -3,12 +3,12 @@ title: Configurar uma assinatura de área restrita de desenvolvedor do Microsoft
 description: Configure uma assinatura de desenvolvedor do Microsoft 365 para criar soluções independentemente de seu ambiente de produção.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: b21d725c158a607df247084fa99c4547f2989e31
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793523"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889444"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar uma assinatura de área restrita de desenvolvedor do Microsoft 365 
 
@@ -51,6 +51,10 @@ Se você selecionou uma área restrita instantânea:
     > Anote o nome de usuário e a senha porque você precisará deles para acessar a sua assinatura de desenvolvedor.
 
 2.  Forneça um número de telefone celular válido e escolha **Enviar código**. Insira o código recebido e escolha **Configurar**.
+
+    > [!NOTE] 
+    > Você deve usar um número de telefone celular válido e não VoIP (Voice over IP).
+
 3.  Depois que a assinatura for criada, o nome de domínio da assinatura e a data de validade aparecerão na página de perfil.
 
 Se você selecionou uma área restrita configurável:

@@ -2,18 +2,20 @@
 title: Use pacotes de dados de exemplo com sua assinatura do Programa para Desenvolvedores do Microsoft 365
 description: Saiba como instalar pacotes de dados de exemplo na sua assinatura de desenvolvedor para ajudar a colocar seu ambiente de área restrita em funcionamento rapidamente.
 ms.localizationpriority: high
-ms.openlocfilehash: 3548c050f346604b803dd4da7343a7ab8eb26075
-ms.sourcegitcommit: 6be0111c5e2a3f92db69de452bd20214b19ec5a1
+ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
+ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793530"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60889451"
 ---
 # <a name="developer-sandbox-sample-data"></a>Dados de exemplo da área restrita do desenvolvedor
 
 A assinatura do Programa para Desenvolvedores da área restrita do Microsoft 365 vem com dados de exemplo para economizar tempo, fornecendo dados e conteúdo necessários para criar e testar suas soluções.
 
 ![Captura de tela dos botões do pacote de dados de exemplo](images/sample-data-packs.PNG)
+
+## <a name="sample-data-installed-on-the-instant-sandbox"></a>Dados de exemplo instalados na área restrita instantânea
 
 Se você tiver uma área restrita instantânea, os pacotes de dados de exemplo já virão pré-instalados. Sua área restrita instantânea inclui os seguintes dados de exemplo:
 
@@ -26,12 +28,12 @@ Se você tiver uma área restrita instantânea, os pacotes de dados de exemplo j
     ![Captura de tela do Portal do Desenvolvedor do Teams](images/teams-developer-portal.PNG)
 - **Dados de exemplo da Estrutura do SharePoint** – escolha entre seis modelos de site que você pode instalar e avaliar como soluções personalizadas para sua organização (com um pré-instalado).
 
+## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Instale pacotes de dados de exemplo em sua área restrita configurável
+
 Se você tiver uma área restrita configurável, poderá instalar rapidamente os dados de exemplo para que possa se concentrar em suas soluções, em vez de perder tempo criando dados de exemplo sozinho.
 
 > [!NOTE] 
 > Você não pode instalar pacotes de dados de exemplo em qualquer outra assinatura do Microsoft 365. Esses pacotes de dados de exemplo são compatíveis apenas com a assinatura da área restrita do desenvolvedor do Microsoft 365 que você obtém como parte do Programa para Desenvolvedores do Microsoft 365.
-
-## <a name="install-sample-data-packs-in-your-configurable-sandbox"></a>Instale pacotes de dados de exemplo em sua área restrita configurável
 
 Você pode encontrar pacotes de dados de exemplo no [painel do Programa para Desenvolvedores do Microsoft 365](https://developer.microsoft.com/microsoft-365/profile), na parte inferior do bloco de assinatura.
 
