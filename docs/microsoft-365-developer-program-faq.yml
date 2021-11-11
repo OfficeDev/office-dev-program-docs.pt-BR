@@ -4,12 +4,12 @@ metadata:
   description: Perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: 288754708eb5a589dad6a6304a0f252cf60fe3b2
-  ms.sourcegitcommit: cfa3f2fd7867c0f0118ac7f563b38af9a0b09024
+  ms.openlocfilehash: fbc4aae63cb03207a095ca6014d7c92394544eeb
+  ms.sourcegitcommit: 7d83b21fd60e5e6b43b4ebcca5c5a411c8149a7b
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 11/03/2021
-  ms.locfileid: "60725024"
+  ms.lasthandoff: 11/11/2021
+  ms.locfileid: "60907200"
 title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
 summary: Veja a seguir as perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
 sections:
@@ -85,11 +85,14 @@ sections:
     answer: "Atualmente, somente os novos membros do Programa para Desenvolvedores do Microsoft 365 receberão automaticamente uma assinatura de Desenvolvedor do Microsoft 365 E5. Os usuários existentes terão a opção de migrar para uma assinatura Microsoft 365 E5. \n\nSe você optar por migrar para uma assinatura Microsoft 365 E5, poderá usar a ferramenta gratuita [Microsoft Mover](https://mover.io/) para migrar seus dados. Consulte também os seguintes recursos:\n\n- [Como migrar caixas de correio de um Microsoft 365 locatário para outro](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Usando o PowerShell para executar uma migração em estágios para Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrar seu conteúdo para o Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       Devo escolher uma área de reserva instantânea ou uma área desarmável configurável?
-    answer: "Se você escolher uma área restrita instantânea, poderá reduzir o tempo de configuração da área restrita de dias a segundos. A Microsoft 365 instantânea vem pré-provisionada com Microsoft Teams, SharePoint, Outlook e Office. Ele também inclui licenças para 24 usuários de teste mais um administrador e os aplicativos de Microsoft 365 mais recentes para seu computador e Mac, incluindo Power Apps, Power BI, Enterprise Mobility + Security, proteção avançada contra ameaças Office 365 e Azure Active Directory.\n\nAlém disso, você tem dados de exemplo pré-instalados, incluindo o novo pacote de dados de exemplo Teams, que simula um pequeno ambiente corporativo para ajudá-lo a criar soluções na plataforma Microsoft 365. Para obter detalhes, consulte Dados de exemplo de área de segurança do desenvolvedor.\n\nSe você escolher uma área de área de segurança configurável, terá uma área de segurança vazia que deverá ser preenchida com dados de exemplo. Essa área de trabalho pode levar até dois dias para provisionar. Você pode optar por instalar os pacotes de dados de exemplo disponíveis no painel do programa de desenvolvedor. Você pode personalizar seu nome de domínio com essa opção. \n"
+    answer: "Se você escolher uma área restrita instantânea, poderá reduzir o tempo de configuração da área restrita de dias para segundos. A área restrita instantânea do Microsoft 365 vem pré-provisionado com Microsoft Teams, Microsoft Office SharePoint Online, Outlook e Office. Ela também inclui licenças para 24 usuários de teste mais um administrador e os aplicativos mais recentes do Microsoft 365 para seu PC e Mac, incluindo Power Apps, Power BI, Enterprise Mobility + Security, Proteção Avançada Contra Ameaças do Office 365 e Azure Active Directory.\n\nAlém disso, você tem dados de exemplo pré-instalados, incluindo o novo pacote de dados de exemplo Teams, que simula um pequeno ambiente corporativo para ajudá-lo a criar soluções na plataforma Microsoft 365. Para obter detalhes, confira Dados de exemplo da área restrita do desenvolvedor.\n\nSe você escolher uma área de área de segurança configurável, terá uma área de segurança vazia que deverá ser preenchida com dados de exemplo. Essa área restrita pode levar até dois dias para provisionar. Você pode optar por instalar os pacotes de dados de exemplo disponíveis no painel do programa de desenvolvedor. Você pode personalizar seu nome de domínio com essa opção. \n"
+  - question: >
+      Como posso encontrar os Teams de exemplo na minha área de segurança instantânea?
+    answer: >
+      Para ver os dados de exemplo do Microsoft Teams, vá para **Teams** em sua assinatura do Microsoft 365 E5. Na guia Teams, você verá algumas equipes pré-criadas com conversas de usuários de exemplo na **Equipe do Projeto Mark 8**. O aplicativo App Studio/Portal de Desenvolvedor é pré-instalado e fixado no painel de navegação.
   - question: >
       Por que devo vincular minha conta do GitHub?
-    answer: >
-      Ao ingressar no Programa para Desenvolvedores do Microsoft 365, na página [Configurações](https://developer.microsoft.com/microsoft-365/profile/settings/preferences), vincule sua conta do GitHub à conta do programa para desenvolvedores. Ao vincular a conta do GitHub, você irá se beneficiar com a renovação de sua assinatura da área restrita para desenvolvedores do Microsoft 365. Você também pode optar por desvincular sua conta na seção [Contas vinculadas](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) da página **Minhas configurações**.
+    answer: "Ao ingressar no Programa para Desenvolvedores do Microsoft 365, na página [Configurações](https://developer.microsoft.com/microsoft-365/profile/settings/preferences), vincule sua conta do GitHub à conta do programa para desenvolvedores. Ao vincular a conta do GitHub, você irá se beneficiar com a renovação de sua assinatura da área restrita para desenvolvedores do Microsoft 365. Você também pode optar por desvincular sua conta na seção [Contas vinculadas](https://developer.microsoft.com/microsoft-365/profile/settings/accounts-linked) da página **Minhas configurações**.\n  \n"
   - question: >
       Posso escolher entre ter uma assinatura do Office 365 E3 ou do Microsoft 365 E5?
     answer: "Atualmente, os novos membros do Programa de Desenvolvedor são oferecidos apenas Microsoft 365 E5 assinatura. Membros existentes com uma assinatura Office 365 E3 terão a opção de manter sua assinatura atual e continuar a renová-la se não precisarem dos novos recursos oferecidos no Microsoft 365 E5 ou fazer uma atualização única para uma assinatura Microsoft 365 E5. Os membros do Programa de Desenvolvedor só podem ter uma assinatura.  \n"
