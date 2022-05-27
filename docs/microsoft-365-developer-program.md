@@ -2,18 +2,18 @@
 title: Bem-vindo ao Programa para Desenvolvedores do Microsoft 365
 description: Ingresse no Programa para Desenvolvedores do Microsoft 365 para desenvolver soluções do Microsoft 365 independentemente de seu ambiente de produção.
 ms.localizationpriority: high
-ms.openlocfilehash: 6694e1d3f31ea8f52b537707a44f251a895eb85e
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: 2294565eb909f5fddcf69ddf3d70a3684df4f23b
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396690"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751499"
 ---
 # <a name="welcome-to-the-microsoft-365-developer-program"></a>Bem-vindo ao Programa para Desenvolvedores do Microsoft 365
 
 O Programa para Desenvolvedores do Microsoft 365 inclui uma assinatura de desenvolvedor do Microsoft 365 E5 que você pode usar para criar sua própria área restrita e desenvolver soluções independentes de seu ambiente de produção. Você pode criar aplicativos do Microsoft Teams, Suplementos do Office para Word, Excel, PowerPoint ou Outlook, ou Suplementos do SharePoint, usando o Microsoft Graph, a Estrutura do SharePoint, o Power Apps e muito mais.
 
-Você tem uma assinatura do Visual Studio Pro ou Enteprise? Se tiver, você poderá aproveitar os benefícios adicionais ao ingressar no programa. Para obter detalhes, confira [Ingressar com o Visual Studio](join-with-visual-studio.md).
+Você tem uma assinatura Visual Studio Pro ou Enterprise? Se tiver, você poderá aproveitar os benefícios adicionais ao ingressar no programa. Para obter detalhes, confira [Ingressar com o Visual Studio](join-with-visual-studio.md).
 
 ## <a name="join-the-microsoft-365-developer-program"></a>Participe do Programa para Desenvolvedores do Microsoft 365
 

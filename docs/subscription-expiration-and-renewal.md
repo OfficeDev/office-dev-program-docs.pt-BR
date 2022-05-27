@@ -3,16 +3,16 @@ title: Expiração e renovação da assinatura do Programa para Desenvolvedores 
 description: Informações sobre como renovar uma assinatura de desenvolvedor vencida.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: afb5c197a83c7776c77ea766c3c6f51233497e9a
-ms.sourcegitcommit: aadd59458002b5ffcb857e92eb46c92669587d78
+ms.openlocfilehash: ddc03b8c1c7f1284fd557e2f5c11b95dec034825
+ms.sourcegitcommit: a9d1dcc5aa7e2f2178aed640eb5f44d442b47410
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "59396711"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65751513"
 ---
 # <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Expiração e renovação da assinatura do Programa para Desenvolvedores do Office 365
 
-Sua associação ao Programa para Desenvolvedores do Microsoft 365 inclui uma assinatura de desenvolvedor gratuita do Office 365 E3 ou Microsoft 365 E5. Sua assinatura do desenvolvedor é renovável com base em suas atividades de desenvolvimento; no entanto, algumas assinaturas mais antigas expiram. Este artigo descreve a diferença entre assinaturas renováveis e não renovável e como atualizar sua assinatura se ela expirar.
+Sua afiliação do Programa de Desenvolvedores do Microsoft 365 inclui uma assinatura gratuita de desenvolvedor do Microsoft 365 E5. Sua assinatura do desenvolvedor é renovável com base em suas atividades de desenvolvimento; no entanto, algumas assinaturas mais antigas expiram. Este artigo descreve a diferença entre assinaturas renováveis e não renovável e como atualizar sua assinatura se ela expirar.
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>Assinaturas do desenvolvedor expiráveis versus renováveis
 
