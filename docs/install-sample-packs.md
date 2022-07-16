@@ -2,12 +2,12 @@
 title: Use pacotes de dados de exemplo com sua assinatura do Programa para Desenvolvedores do Microsoft 365
 description: Saiba como instalar pacotes de dados de exemplo na sua assinatura de desenvolvedor para ajudar a colocar seu ambiente de área restrita em funcionamento rapidamente.
 ms.localizationpriority: high
-ms.openlocfilehash: 9031992701203438c26ffe3266d59932c370105f
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
+ms.openlocfilehash: a9d93e75b23e08ad49c960e0d4f1559e33193f5e
+ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889451"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66827294"
 ---
 # <a name="developer-sandbox-sample-data"></a>Dados de exemplo da área restrita do desenvolvedor
 
@@ -104,7 +104,7 @@ Depois de instalar o pacote de dados de exemplo Usuários, você pode instalar o
 
 O pacote de dados de exemplo do SharePoint inclui seis modelos de site do SharePoint diferentes para escolher e experimentar e modelar soluções do SharePoint para colaboração, comunicação, envolvimento e gerenciamento de conhecimento.
 
-Estes são alguns dos modelos mais populares do [livro de aparência do PnP do SharePoint](https://provisioning.sharepointpnp.com/). Hoje em dia, é simples criar exemplos de soluções de sites e páginas bonitos e rápidos que ficam ótimos em qualquer dispositivo ou tela. Inspire-se com esses designs ou adicione-os ao seu locatário da área restrita para começar a criar seu próximo site.
+Estes são alguns dos modelos mais populares do [livro de aparência do PnP do SharePoint](https://lookbook.microsoft.com). Hoje em dia, é simples criar exemplos de soluções de sites e páginas bonitos e rápidos que ficam ótimos em qualquer dispositivo ou tela. Inspire-se com esses designs ou adicione-os ao seu locatário da área restrita para começar a criar seu próximo site.
 
 Os modelos podem ser instalados em sua assinatura. Depois de instalar um modelo, você tem a opção de instalar os demais. O processo de instalação inclui as seguintes etapas:
 
