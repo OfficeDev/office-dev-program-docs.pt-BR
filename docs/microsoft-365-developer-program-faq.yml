@@ -4,12 +4,12 @@ metadata:
   description: Perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: b377aaf6e30fd2f89dde8c3015532e635ca2e15c
-  ms.sourcegitcommit: 38b2101824afc7693c09370a3f0d0d7dd689b6ef
+  ms.openlocfilehash: c38ca01848531ee656242f2cba6a005277dd714f
+  ms.sourcegitcommit: efbf5fcede882e7f333b3c6aa95d2fc30f7adafc
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 09/13/2022
-  ms.locfileid: "67667457"
+  ms.lasthandoff: 09/14/2022
+  ms.locfileid: "67675509"
 title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
 summary: Veja a seguir as perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
 sections:
@@ -54,7 +54,7 @@ sections:
   - question: >
       A área restrita instantânea tem funcionalidades diferentes de uma assinatura Microsoft 365 E5 padrão?
     answer: >
-      Conectores de entrada para fluxo de Exchange Online não têm suporte. Se você tentar criar um conector, receberá o seguinte erro: "Erro ao executar a solicitação. Para essa oferta de serviço, você não pode criar ou atualizar conectores de entrada em sua organização <tenantID>."
+      No Exchange Online, não há suporte para conectores de entrada para fluxo de email. Se você tentar criar um conector de entrada, receberá o seguinte erro: "Erro ao executar a solicitação. Para essa oferta de serviço, você não pode criar ou atualizar conectores de entrada em sua organização."
   - question: >
       A assinatura também inclui uma assinatura do Azure?
     answer: "Esta oferta não inclui uma assinatura do Azure. No entanto, para receber acesso gratuito aos serviços do Azure, é possível [criar uma conta gratuita do Azure](https://azure.microsoft.com/free/). \n"
