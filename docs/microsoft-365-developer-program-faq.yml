@@ -4,12 +4,12 @@ metadata:
   description: Perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: c38ca01848531ee656242f2cba6a005277dd714f
-  ms.sourcegitcommit: efbf5fcede882e7f333b3c6aa95d2fc30f7adafc
+  ms.openlocfilehash: 101afeb133b66641733573bc033ef1762162d839
+  ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 09/14/2022
-  ms.locfileid: "67675509"
+  ms.lasthandoff: 10/13/2022
+  ms.locfileid: "68570597"
 title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
 summary: Veja a seguir as perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
 sections:
@@ -70,7 +70,7 @@ sections:
     answer: "Em Abril de 2019, mudamos para um novo modelo, em que sua assinatura pode ser renovada perpetuamente a cada 90 dias se você o estiver usando ativamente para desenvolvimento. Acreditamos que esse modelo garante que os desenvolvedores que estão desenvolvendo soluções ativamente tenham uma assinatura sempre que precisarem. Se você estiver desenvolvendo com frequência, sua assinatura não expira nunca; ela é estendida automaticamente. Se você estiver desenvolvendo por um breve período e sua assinatura expirar e for excluída, você pode solicitar uma nova assinatura. \n\nSe quiser ter uma assinatura disponível por um período mais longo, recomendamos que você obtenha a assinatura do Visual Studio Professional ou Visual Studio Enterprise. Esses programas incluem uma assinatura de desenvolvedor gratuita do Microsoft 365 que é boa para a vida útil da sua assinatura do Visual Studio. Para acessar, vá para [Visual Studio | Meu Benefícios](https://my.visualstudio.com/benefits). Para saber mais, contate o [Atendimento ao Cliente do Visual Studio](https://www.visualstudio.com/subscriptions/support/). \n"
   - question: >
       Como determinar se uma assinatura pode ser renovada?
-    answer: "Usamos um conjunto de algoritmos e telemetria que recebemos de sua atividades no Programa para Desenvolvedores do Microsoft 365 e em sua assinatura de desenvolvedor do Office 365 E3 ou do Microsoft 365 E5 para determinar se você está desenvolvendo ativamente. Verificamos esses algoritmos regularmente para atualizar seu status e determinar se sua assinatura deve ser estendida. \n\nSe você acha que, de alguma forma, não rastreamos sua atividade de desenvolvimento com precisão, informe-nos pelo seu painel. Para enviar um formulário que nos informa como você está usando sua assinatura para desenvolvimento, no aviso do painel, escolha o link **Fale conosco**, conforme mostrado na imagem a seguir. Nós vamos revisar a sua solicitação e informá-lo se você estiver qualificado para uma extensão. \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
+    answer: "We use a set of algorithms and telemetry that we get from your activity in the Microsoft 365 Developer Program and on your Office 365 E3 or Microsoft 365 E5 developer subscription to determine whether you are actively developing. We check these regularly to update your status and determine whether your subscription should be extended. \n\nSe você acha que, de alguma forma, não rastreamos sua atividade de desenvolvimento com precisão, informe-nos pelo seu painel. Para enviar um formulário que nos informa como você está usando sua assinatura para desenvolvimento, no aviso do painel, escolha o link **Fale conosco**, conforme mostrado na imagem a seguir. Nós vamos revisar a sua solicitação e informá-lo se você estiver qualificado para uma extensão. \n\n<img alt=\"Screenshot of the subscription expiration text box with the let us know link highlighted\" src=\"images/appeals-ux-for-qa.jpg\" width=\"500\"> \n"
   - question: >
       Como vocês definem atividade de desenvolvimento?
     answer: "Sua atividade no Programa para Desenvolvedores e na sua assinatura de desenvolvedor determina se você está desenvolvendo ativamente e se a assinatura deve ser estendida. \n\nPara mais informações sobre os tipos de atividades que monitoramos, confira os [termos de uso](terms-and-conditions.md). \n"
@@ -80,13 +80,13 @@ sections:
   - question: >
       Se minha assinatura está prestes a expirar, quanto tempo tenho antes que ela seja excluída?
     answer: >
-      Você terá 30 dias após a assinatura expirar para migrar todos os dados. Nos 30 dias seguintes, somente o administrador terá acesso à assinatura, e no 60° dia, a assinatura e todos os dados serão excluídos.
+      You have 30 days after your subscription expires to migrate any data. For the next 30 days, only the admin will have access to the subscription, and on day 60, the subscription and all data will be deleted.
 
 
       <a name="account-types"> </a>
   - question: >
       Como migrar de uma assinatura do Office 365 E3 para uma assinatura do Microsoft 365 e5?
-    answer: "Atualmente, somente os novos membros do Programa para Desenvolvedores do Microsoft 365 receberão automaticamente uma assinatura de Desenvolvedor do Microsoft 365 E5. Os usuários existentes receberão uma opção para migrar para uma Microsoft 365 E5 assinatura. \n\nSe você optar por migrar para uma assinatura Microsoft 365 E5, poderá usar a ferramenta gratuita [Microsoft Mover](https://mover.io/) para migrar seus dados. Consulte também os seguintes recursos:\n\n- [Como migrar caixas de correio de um locatário do Microsoft 365 para outro](https://docs.microsoft.com/en-us/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Usando o PowerShell para executar uma migração em etapas para Office 365](https://docs.microsoft.com/en-us/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrar seu conteúdo para o Microsoft 365](https://docs.microsoft.com/en-us/sharepointmigration/migrate-to-sharepoint-online)\n"
+    answer: "Atualmente, somente os novos membros do Programa para Desenvolvedores do Microsoft 365 receberão automaticamente uma assinatura de Desenvolvedor do Microsoft 365 E5. Os usuários existentes receberão uma opção para migrar para uma Microsoft 365 E5 assinatura. \n\nSe você optar por migrar para uma assinatura Microsoft 365 E5, poderá usar a ferramenta gratuita [Microsoft Mover](https://mover.io/) para migrar seus dados. Consulte também os seguintes recursos:\n\n- [Como migrar caixas de correio de um locatário do Microsoft 365 para outro](/exchange/mailbox-migration/migrate-mailboxes-across-tenants)\n- [Usando o PowerShell para executar uma migração em etapas para Office 365](/microsoft-365/enterprise/use-powershell-to-perform-a-staged-migration-to-microsoft-365?view=o365-worldwide)\n- [Migrar seu conteúdo para o Microsoft 365](/sharepointmigration/migrate-to-sharepoint-online)\n"
   - question: >
       Devo escolher uma área restrita instantânea ou uma área restrita configurável?
     answer: "Se você escolher uma área restrita instantânea, poderá reduzir o tempo de configuração da área restrita de dias para segundos. A área restrita instantânea do Microsoft 365 vem pré-provisionado com Microsoft Teams, Microsoft Office SharePoint Online, Outlook e Office. Ela também inclui licenças para 24 usuários de teste mais um administrador e os aplicativos mais recentes do Microsoft 365 para seu PC e Mac, incluindo Power Apps, Power BI, Enterprise Mobility + Security, Proteção Avançada Contra Ameaças do Office 365 e Azure Active Directory.\n\nAlém disso, você obtém dados de exemplo pré-instalados, incluindo o novo pacote de dados de exemplo do Teams, que simula um pequeno ambiente corporativo para ajudá-lo a criar soluções na plataforma Microsoft 365. Para obter detalhes, confira Dados de exemplo da área restrita do desenvolvedor.\n\nSe você escolher uma área restrita configurável, terá uma área restrita vazia que deverá ser preenchida com dados de exemplo. Essa área restrita pode levar até dois dias para provisionar. Você pode optar por instalar os pacotes de dados de exemplo que estão disponíveis no painel do programa de desenvolvedor. Você pode personalizar seu nome de domínio com essa opção. \n"
@@ -138,7 +138,7 @@ sections:
       3. Na caixa de confirmação **Excluir perfil**, escolha **Excluir**.
   - question: >
       Suporte
-    answer: "Se você tiver problemas ao configurar sua assinatura, confira os seguintes recursos de suporte:\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n- [Atendimento ao Cliente do Visual Studio](https://www.visualstudio.com/subscriptions/support/)\n"
+    answer: "Se você tiver problemas para configurar sua assinatura, consulte o seguinte recurso de suporte:\n\n- [Stack Overflow](https://stackoverflow.com/questions)   \n"
   - question: >
       Confira também
     answer: >-
