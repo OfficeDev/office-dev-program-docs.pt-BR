@@ -2,12 +2,12 @@
 title: Usar sua assinatura de desenvolvedor para criar soluções do Microsoft 365
 description: Usae sua assinatura de desenvolvedor do Microsoft 365 para criar as soluções que você deseja.
 ms.localizationpriority: high
-ms.openlocfilehash: 75dab54d4dada18663eed11b3ed6a937a3d753cd
-ms.sourcegitcommit: 088cfc887d4638d9be44cdd58ff5550a6564314c
-ms.translationtype: HT
+ms.openlocfilehash: 2450b0dee53ca7a8bdaf90beea3cb08f9e2dea36
+ms.sourcegitcommit: b10b392973a9eb8636ce4f1994c3bdbed000411c
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/16/2022
-ms.locfileid: "66827287"
+ms.lasthandoff: 10/13/2022
+ms.locfileid: "68570590"
 ---
 # <a name="use-your-developer-subscription-to-build-microsoft-365-solutions"></a>Usar sua assinatura de desenvolvedor para criar soluções do Microsoft 365
 
@@ -49,15 +49,16 @@ Para saber mais sobre como começar a trabalhar com o Microsoft Graph, confira [
 
 ## <a name="office-add-ins"></a>Suplementos do Office
 
-Você pode usar a plataforma de suplementos do Office para criar soluções que estendem os aplicativos do Office e interagem com conteúdo nos documentos do Office. Com os suplementos do Office, você pode usar tecnologias web conhecidas, como HTML, CSS e JavaScript, para estender e interagir com o Word, Excel, PowerPoint, OneNote, Project e Outlook. Sua solução pode ser executada no Office através de várias plataformas, incluindo Office para Windows, Office Online, Office para Mac e Office para iPad.
+You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
 
 Para configurar seu ambiente de desenvolvimento e criar seu primeiro suplemento, confira [Inícios rápidos de suplementos do Office](/office/dev/add-ins/).
 
 ## <a name="sharepoint-framework"></a>Estrutura do SharePoint
 
-A Estrutura do SharePoint (SPFx) é um modelo de página e de Web Part que fornece suporte completo ao desenvolvimento do SharePoint do lado do cliente, de fácil integração com dados do SharePoint e suporte para ferramentas de software livre. Com a Estrutura do SharePoint, você pode usar tecnologias e ferramentas modernas da Web no seu ambiente de desenvolvimento preferido para criar experiências e aplicativos produtivos que respondem e estão prontos para dispositivos móveis.
+The SharePoint Framework (SPFx) is a page and web part model that provides full support for client-side SharePoint development, easy integration with SharePoint data, and support for open source tooling. With the SharePoint Framework, you can use modern web technologies and tools in your preferred development environment to build productive experiences and apps that are responsive and mobile-ready.
 
-Para configurar automaticamente sua área restrita para experimentar diferentes modelos e cenários do SharePoint, instale o pacote de dados de exemplo do SharePoint. Para mais detalhes, consulte:
+To automatically configure your sandbox to try out different SharePoint templates and scenarios, install the SharePoint sample data pack.
+For more details, see:
 
 - [Instalar pacotes de dados de exemplo](install-sample-packs.md)
 - [Configurar sua assinatura de desenvolvedor para o SPFx](/sharepoint/dev/spfx/set-up-your-developer-tenant)
@@ -76,7 +77,7 @@ Para configurar e começar a codificação com os Suplementos do SharePoint:
 
 ## <a name="power-apps"></a>Power Apps
 
-O Power Apps para Office 365 está incluído na sua licença de assinatura de desenvolvedor do Microsoft 365 E5. Isso significa que você pode criar e testar aplicativos ilimitados com [conectores padrão](https://docs.microsoft.com/connectors/connector-reference/connector-reference-standard-connectors). Para usar conectores [premium](https://docs.microsoft.com/connectors/connector-reference/connector-reference-premium-connectors) ou personalizados e o Dataverse, você precisa de uma licença adicional. Para fins de desenvolvimento e teste, você pode usar o [Plano para Desenvolvedores do Power Apps](https://powerapps.microsoft.com/developerplan). 
+O Power Apps para Office 365 está incluído na sua licença de assinatura de desenvolvedor do Microsoft 365 E5. Isso significa que você pode criar e testar aplicativos ilimitados com [conectores padrão](/connectors/connector-reference/connector-reference-standard-connectors). Para usar conectores [premium](/connectors/connector-reference/connector-reference-premium-connectors) ou personalizados e o Dataverse, você precisa de uma licença adicional. Para fins de desenvolvimento e teste, você pode usar o [Plano para Desenvolvedores do Power Apps](https://powerapps.microsoft.com/developerplan). 
 
 O Power Apps é um conjunto de aplicativos, serviços, conectores e plataformas de dados que fornecem um ambiente de desenvolvimento de aplicativos rápido para compilar aplicativos personalizados para suas necessidades de negócios. Com o Power Apps, você pode criar rapidamente aplicativos comerciais personalizados que se conectam aos dados corporativos armazenados na plataforma de dados subjacente (Common Data Service) ou em várias fontes de dados online e locais (SharePoint, Microsoft 365, Dynamics 365, SQL Server e assim por diante).
 
