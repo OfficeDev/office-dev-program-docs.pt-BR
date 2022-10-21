@@ -3,16 +3,16 @@ title: Configurar uma assinatura de área restrita de desenvolvedor do Microsoft
 description: Configure uma assinatura de desenvolvedor do Microsoft 365 para criar soluções independentemente de seu ambiente de produção.
 ms.date: 04/01/2019
 ms.localizationpriority: high
-ms.openlocfilehash: 57fc33880f2df4e43bf79d17a2280ea3e7853561
-ms.sourcegitcommit: ff0cbb1c2c58aca2b50335d957b30495c8e90486
-ms.translationtype: HT
+ms.openlocfilehash: f28b37a1d3c9e5ae335695f9a5473feb40404172
+ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60889444"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "68667282"
 ---
 # <a name="set-up-a-microsoft-365-developer-sandbox-subscription"></a>Configurar uma assinatura de área restrita de desenvolvedor do Microsoft 365 
 
-Configure uma área restrita de desenvolvedor do Microsoft 365 para criar soluções independentemente do ambiente de produção. Sua associação ao programa para desenvolvedores, do qual você se associou como membro regular ou por meio do Visual Studio Enterprise, inclui uma assinatura de área restrita do desenvolvedor do Microsoft 365 E5 com 25 licenças de usuário. Ela dura 90 dias e é gratuita para uso apenas com fins de desenvolvimento (soluções de codificação). 
+Configure uma área restrita de desenvolvedor do Microsoft 365 para criar soluções independentemente do ambiente de produção. Sua associação ao programa para desenvolvedores, do qual você se associou como membro regular ou por meio do Visual Studio Enterprise, inclui uma assinatura de área restrita do desenvolvedor do Microsoft 365 E5 com 25 licenças de usuário. Ela dura 90 dias e é gratuita para uso apenas com fins de desenvolvimento (soluções de codificação). Não há suporte para transações comerciais, incluindo a compra de serviços pagos.
 
 > [!NOTE] 
 > Para configurar uma assinatura, você deve primeiro [ingressar no Programa para Desenvolvedores do Microsoft 365](microsoft-365-developer-program.md) diretamente ou por meio do Visual Studio Professional ou Enterprise (se você for um assinante). Depois de ingressar, você verá a opção de configurar uma assinatura.
