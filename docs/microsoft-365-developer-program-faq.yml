@@ -4,12 +4,12 @@ metadata:
   description: Perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
   ms.date: 04/01/2019
   ms.localizationpriority: high
-  ms.openlocfilehash: af9cec4b336ffaf68b3ca1f56d61f7f2776ed987
-  ms.sourcegitcommit: e6e6f15ad3f9ce28310a7c8cec87402335bde388
+  ms.openlocfilehash: 2a9be84dc3f2457836404caa70ab66999a246721
+  ms.sourcegitcommit: 1828bc081287aefdfa4d8a94d93de9e6046dc8c9
   ms.translationtype: MT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 10/21/2022
-  ms.locfileid: "68667289"
+  ms.locfileid: "68673526"
 title: Perguntas Frequentes sobre o Programa para Desenvolvedores do Microsoft 365
 summary: Veja a seguir as perguntas frequentes sobre o Programa para Desenvolvedores do Microsoft 365.
 sections:
@@ -55,6 +55,10 @@ sections:
       A área restrita instantânea tem recursos diferentes de uma assinatura de Microsoft 365 E5 padrão?
     answer: >
       No Exchange Online, não há suporte para conectores de entrada para fluxo de correio. Se você tentar criar um conector de entrada, receberá o seguinte erro: "Solicitação de execução de erro. Para essa oferta de serviço, você não pode criar ou atualizar conectores de entrada em sua organização.".
+  - question: >
+      Por que não posso entrar no painel do Programa de Desenvolvedores?
+    answer: >
+      Exigimos que os membros do Programa de Desenvolvedor do Microsoft 365 sigam os [Termos e condições](terms-and-conditions.md). Em algumas instâncias, podemos não permitir que membros que violam nossos termos entrem no programa.
   - question: >
       Não consigo entrar na minha caixa de areia instantânea com minha conta de administrador. O que posso fazer?
     answer: "Se você configurar sua área restrita instantânea em ou após 30 de setembro de 2022, sua capacidade de entrar com sua conta de administrador pode ter expirado. Nesse caso, já expiramos sua área restrita instantânea e você precisará configurar uma nova. Acesse o [painel do Programa de Desenvolvedor do Microsoft 365](https://aka.ms/DevProgramDashboard), entre com sua conta do Programa de Desenvolvedores e escolha **Configurar assinatura** para obter sua nova área restrita instantânea.  \n\nDepois de configurar sua nova área restrita instantânea, entre com sua conta de administrador dentro de 14 dias.\n"
